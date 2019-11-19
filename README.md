@@ -16,9 +16,15 @@
 - [Chapter 10 - Package management](https://github.com/steevehook/udemy-go101/blob/master/chapter_10-package-management)
 - [Chapter 11 - Concurrency](https://github.com/steevehook/udemy-go101/blob/master/chapter_11-concurrency)
 - [Chapter 12 - Real Time Chat app](https://github.com/steevehook/udemy-go101/blob/master/chapter_12-real-time-chat-app)
-- [Chapter 13 - Deploying Go apps](https://github.com/steevehook/udemy-go101/blob/master/chapter_13-deployging-go-apps)
+- [Chapter 13 - Deploying Go apps](https://github.com/steevehook/udemy-go101/blob/master/chapter_13-deploying-go-apps)
 - [Chapter 14 - Go best practices](https://github.com/steevehook/udemy-go101/blob/master/chapter_14-go-best-practices)
 - [Farewell & Resources](https://github.com/steevehook/udemy-go101/blob/master/farewell-and-resources)
+
+### Udemy course
+
+[Link to Udemy course HERE](https://www.google.com)
+
+4-6 compelling images about the course HERE
 
 ### Installation
 
