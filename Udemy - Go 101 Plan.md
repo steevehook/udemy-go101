@@ -50,33 +50,24 @@ Estimated course time >= 20 hours
 
 ## Section 3 - Language basics (II)
 
-- Small overview on Section 3
+- Section 3 overview
 - Strucs
 - Structs - exported / unexported
 - Structs - field promotion
 - Functions
-- Function - (data, error) pattern
+- Function - multiple return (data, error)
 - Closures
 - Custom types
 - Methods (function receivers)
 - Pointers
 - Pointer vs value (Everything is passed by value)
-- Marshalling vs Unmarshalling (Overview)
+- Marshalling & Unmarshalling (Overview)
 - Structs JSON
 - Arrays/Slices JSON
 - Maps JSON
 - JSON Unmarshalling
-- Channels
-- Buffered channels
-- Send only / receive only channels
-- Interfaces - general overview
-- Interfaces in Std Lib
-- Interface{} type
-- Implement some STD lib interfaces & use them
-- Interfaces - Type Assertion
-- Assignment - Problem
-- Assignment - Solution
 - Section 3 recap
+- Section 3 quiz
 
 ## Section 4 - Notes CLI App
 
@@ -96,7 +87,15 @@ Estimated course time >= 20 hours
 - Make backup before program exits
 - Section 4 recap
 
-## Section 5 - Errors
+## Section 5 - Interfaces
+
+- Interfaces - general overview
+- Interfaces in Std Lib
+- Interface{} type
+- Implement some STD lib interfaces & use them
+- Interfaces - Type Assertion
+
+## Section 6 - Errors
 
 - Small overview of Section 5
 - Errors in Go. (val, err) pattern
@@ -113,7 +112,9 @@ Estimated course time >= 20 hours
 - Assignment (Solution)
 - Section 5 recap
 
-## Section 6 - Testing
+## Section 7 - Refactor Notes CLI app
+
+## Section 8 - Testing
 - Small overview on Section 6
 - Testing in Go (overview)
 - Testing functions
@@ -134,7 +135,7 @@ Estimated course time >= 20 hours
 - Assignment (Solution)
 - Section 6 recap
 
-## Section 7 - Testing & Refactoring Notes App
+## Section 9 - Test Notes CLI app
 
 - Small overview on Section 7
 - Code smells & bad architecture design & solutions
@@ -148,7 +149,7 @@ Estimated course time >= 20 hours
 - Integration test the whole CLI app
 - Section 7 recap
 
-## Section 8 - Expenses REST API
+## Section 10 - Expenses REST API
 
 - Introduction to Expenses REST API (Overview)
 - Introduction to client - server architecture
@@ -187,7 +188,7 @@ Estimated course time >= 20 hours
 - Assignment (Finish couple of endpoints & test them)
 - Section 7 recap
 
-## Section 9 - Expenses REST API Auth
+## Section 11 - Expenses REST API Auth
 
 - Small overview on Section 9
 - Introduction to router middleware
@@ -201,7 +202,7 @@ Estimated course time >= 20 hours
 - Assignment solution
 - Section 9 recap
 
-## Section 10 - Package management
+## Section 12 - Package management
 
 - Small overview on Section 10
 - Explaining packages in depth
@@ -211,10 +212,13 @@ Estimated course time >= 20 hours
 - Migrate Expenses REST API to Go modules
 - Section 10 recap
 
-## Section 11 - Concurrency
+## Section 13 - Concurrency
 
 - Small overview on Section 11
 - Concurrency is not Parallelism. 1 CPU concurrency vs multi CPU concurrency
+- Channels
+- Buffered channels
+- Send only / receive only channels
 - Concurrent functions. The `go` keyword
 - Concurrent functions facts
 - for select
@@ -231,7 +235,7 @@ Estimated course time >= 20 hours
 - Assignment
 - Section 8 recap
 
-## Section 12 - Real Time Chat
+## Section 14 - Real Time Chat
 
 - Small overview of the chat app
 - Introduction to web sockets
@@ -248,7 +252,7 @@ Estimated course time >= 20 hours
 - Connect the **Server** with **Messages** repository
 - Improvements (Test the application)
 
-## Section 13 - Deploying Go apps
+## Section 15 - Deploying Go apps
 
 - Small overview on Section 13
 - Introduction to SystemD
@@ -263,7 +267,7 @@ Estimated course time >= 20 hours
 - Assignment (Solution)
 - Section 13 recap
 
-## Section 14 - Go best practices
+## Section 16 - Go best practices
 
 - Small overview on Section 13
 - CodeReviewComments
