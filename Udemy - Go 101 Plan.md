@@ -2,10 +2,10 @@
 
 Estimated course time >= 20 hours
 
-## Chapter 1 - Introduction
+## Section 1 - Introduction
 
 - Course Introduction & About the author
-- Course overview. Chapter 1 overview
+- Course overview. Section 1 overview
 - Course rules & useful resources (Q&A, Documentation, code sharing & others, Discord)
 - Go in a nutshell. Go authors & philosophy
 - Go installation on Mac
@@ -17,11 +17,11 @@ Estimated course time >= 20 hours
 - Cloning the course from GitHub & small directories overview
 - $GOPATH & directory structure (project layout)
 - Hello World
-- Chapter 1 recap
+- Section 1 recap
 
-## Chapter 2 - Language Basics (I)
+## Section 2 - Language Basics (I)
 
-- Small overview on Chapter 2
+- Small overview on Section 2
 - Explaining the basic & important Go commands
 - Packages
 - Package types (executable & non executable)
@@ -50,11 +50,11 @@ Estimated course time >= 20 hours
 - for statement
 - Assignment - Problem
 - Assignment - Solution
-- Chapter 2 recap
+- Section 2 recap
 
-## Chapter 3 - Language basics (II)
+## Section 3 - Language basics (II)
 
-- Small overview on Chapter 3
+- Small overview on Section 3
 - Strucs
 - Structs - exported / unexported
 - Structs - field promotion
@@ -80,9 +80,9 @@ Estimated course time >= 20 hours
 - Interfaces - Type Assertion
 - Assignment - Problem
 - Assignment - Solution
-- Chapter 3 recap
+- Section 3 recap
 
-## Chapter 4 - Notes CLI App
+## Section 4 - Notes CLI App
 
 - Introduction to Notes App
 - Create a CLI interface
@@ -98,11 +98,11 @@ Estimated course time >= 20 hours
 - Write the backup utility
 - Introduction to `os.Signal`
 - Make backup before program exits
-- Chapter 4 recap
+- Section 4 recap
 
-## Chapter 5 - Errors
+## Section 5 - Errors
 
-- Small overview of Chapter 5
+- Small overview of Section 5
 - Errors in Go. (val, err) pattern
 - Error interface & Custom errors
 - What is defer? Example
@@ -115,10 +115,10 @@ Estimated course time >= 20 hours
 - Error handling good practices
 - Assignment (Problem)
 - Assignment (Solution)
-- Chapter 5 recap
+- Section 5 recap
 
-## Chapter 6 - Testing
-- Small overview on Chapter 6
+## Section 6 - Testing
+- Small overview on Section 6
 - Testing in Go (overview)
 - Testing functions
 - Testing types
@@ -136,11 +136,11 @@ Estimated course time >= 20 hours
 - Benchmark testing
 - Assignment (Test a piece of code with dependencies)
 - Assignment (Solution)
-- Chapter 6 recap
+- Section 6 recap
 
-## Chapter 7 - Testing & Refactoring Notes App
+## Section 7 - Testing & Refactoring Notes App
 
-- Small overview on Chapter 7
+- Small overview on Section 7
 - Code smells & bad architecture design & solutions
 - SOLID - explanation
 - Explain how the app refactoring
@@ -150,9 +150,9 @@ Estimated course time >= 20 hours
 - Unit test each component
 - Write docs for exported symbols
 - Integration test the whole CLI app
-- Chapter 7 recap
+- Section 7 recap
 
-## Chapter 8 - Expenses REST API
+## Section 8 - Expenses REST API
 
 - Introduction to Expenses REST API (Overview)
 - Introduction to client - server architecture
@@ -189,11 +189,11 @@ Estimated course time >= 20 hours
 - Testing the config file
 - Add integration tests for Notes REST API
 - Assignment (Finish couple of endpoints & test them)
-- Chapter 7 recap
+- Section 7 recap
 
-## Chapter 9 - Expenses REST API Auth
+## Section 9 - Expenses REST API Auth
 
-- Small overview on Chapter 9
+- Small overview on Section 9
 - Introduction to router middleware
 - Create Auth middleware
 - Guard private routes with Auth middleware
@@ -203,21 +203,21 @@ Estimated course time >= 20 hours
 - Testing all routes using Postman and Auth bearer token
 - Assignment (add auth middleware & tests for some private routes)
 - Assignment solution
-- Chapter 9 recap
+- Section 9 recap
 
-## Chapter 10 - Package management
+## Section 10 - Package management
 
-- Small overview on Chapter 10
+- Small overview on Section 10
 - Explaining packages in depth
 - Package management & go get
 - Go mod (vgo)
 - Migration to Go mod
 - Migrate Expenses REST API to Go modules
-- Chapter 10 recap
+- Section 10 recap
 
-## Chapter 11 - Concurrency
+## Section 11 - Concurrency
 
-- Small overview on Chapter 11
+- Small overview on Section 11
 - Concurrency is not Parallelism. 1 CPU concurrency vs multi CPU concurrency
 - Concurrent functions. The `go` keyword
 - Concurrent functions facts
@@ -233,9 +233,9 @@ Estimated course time >= 20 hours
 - Health check example (HTTP roundtripper)
 - Enhance Notes App to use multiple connections
 - Assignment
-- Chapter 8 recap
+- Section 8 recap
 
-## Chapter 12 - Real Time Chat
+## Section 12 - Real Time Chat
 
 - Small overview of the chat app
 - Introduction to web sockets
@@ -252,9 +252,9 @@ Estimated course time >= 20 hours
 - Connect the **Server** with **Messages** repository
 - Improvements (Test the application)
 
-## Chapter 13 - Deploying Go apps
+## Section 13 - Deploying Go apps
 
-- Small overview on Chapter 13
+- Small overview on Section 13
 - Introduction to SystemD
 - DigitalOcean
 - Amazon
@@ -265,11 +265,11 @@ Estimated course time >= 20 hours
 - Jenkins
 - Assignment (Deploy Expenses REST API)
 - Assignment (Solution)
-- Chapter 13 recap
+- Section 13 recap
 
-## Chapter 14 - Go best practices
+## Section 14 - Go best practices
 
-- Small overview on Chapter 13
+- Small overview on Section 13
 - CodeReviewComments
 - Write docs
 - Better copy paste than write wrong abstraction
@@ -281,7 +281,7 @@ Estimated course time >= 20 hours
 - Use a logger
 - Always check for race conditions
 - Splitting packages/files
-- Chapter 14 recap
+- Section 14 recap
 
 ## Farewell & Resources
 
