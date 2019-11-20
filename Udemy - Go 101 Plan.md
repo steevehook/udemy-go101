@@ -5,52 +5,48 @@ Estimated course time >= 20 hours
 ## Section 1 - Introduction
 
 - Course Introduction & About the author
-- Course overview. Section 1 overview
 - Course rules & useful resources (Q&A, Documentation, code sharing & others, Discord)
 - Go in a nutshell. Go authors & philosophy
-- Go installation on Mac
-- Go installation on Linux
-- Go installation on Windows
-- Git installation on Mac/Linux
-- Git installation on Windows
-- Git basic commands & Github
-- Cloning the course from GitHub & small directories overview
-- $GOPATH & directory structure (project layout)
+- Installation on Mac (Go & Git)
+- Installation on Windows (Go & Git)
+- Installation on Linux (Go & Git)
+- Git basics & Github (clone udemy-go101) 
+- $GOPATH & directory structure
 - Hello World
 - Section 1 recap
+- Section 1 quiz
 
 ## Section 2 - Language Basics (I)
 
-- Small overview on Section 2
-- Explaining the basic & important Go commands
-- Packages
-- Package types (executable & non executable)
-- Basic Types in Go
+- Section 2 overview
+- Basic Go commands
+- Packages (executable & non executable)
+- Executable & non-executable packages
+- Basic Types
 - **const** & **var** declarations
 - Reserved keywords & operators
-- Small overview on aggregate types
+- Aggregate types overview
 - Arrays
 - Slices
-- Explaining the **len** function
-- Explaining the **cap** function
-- Explaining the **append** function
-- Explaining the **make** function
+- **len** function
+- **cap** function
+- **append** function
+- **make** function
 - Arrays/Slices addressing
+- Control structures overview (if, else, switch, for)
+- if/else statement
+- switch statement
+- for statement
 - Arrays/Slices looping
 - Maps
-- Maps looping
+- Maps - addressing & looping
 - Maps - comma, ok syntax
 - Nil map
 - Maps - delete function
 - Map implementation (Bucket)
 - Zero values
-- Control structures (if, else, switch, for) overview
-- if/else statement
-- switch statement
-- for statement
-- Assignment - Problem
-- Assignment - Solution
 - Section 2 recap
+- Section 2 quiz
 
 ## Section 3 - Language basics (II)
 
