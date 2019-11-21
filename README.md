@@ -24,7 +24,7 @@
 
 ### Udemy course
 
-<img src="https://github.com/steevehook/udemy-go101/raw/master/udemy-go101-cover.jpg?sanitize=true" width="1920px"/>
+<img src="https://github.com/steevehook/udemy-go101/raw/master/udemy-go101-cover.jpg?sanitize=true" width="100%"/>
 
 [Link to Udemy course HERE](https://www.google.com)
 
