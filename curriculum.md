@@ -46,7 +46,7 @@ Estimated course time ~28 hours
 - Map implementation (Bucket)
 - Zero values
 - Section 2 recap
-- Section 2 quiz
+- Quiz
 
 ## Section 3 - Language basics (II)
 
@@ -67,7 +67,9 @@ Estimated course time ~28 hours
 - Maps JSON
 - JSON Unmarshalling
 - Section 3 recap
-- Section 3 quiz
+- Quiz
+- Assignment (Create the person custom type with 4 methods & output it to stdout in JSON format)
+- Assignment (Solution)
 
 ## Section 4 - Notes CLI App
 
@@ -102,17 +104,33 @@ Estimated course time ~28 hours
 - Assignment (Convert a piece of code to use interfaces)
 - Assignment Solution
 
-## Section 6 - Exploring `net` & `net/http`
+## Section 6 - Explore `net` & `net/http`
 
 - Section 6 overview
-- Exploring the `net` package
+- Explore `net` package
+- Create a TCP server
+- Create a UDP server
+- Client/Server architecture
+- net client & `net.Dial`
+- Intro to HTTP protocol
+- HTTP server with `net`
+- HTTP router/mux
+- Explore `net/http` package
+- Create an HTTP client
+- HTTP server with `net/http`
+- Handler, HandlerFunc, Handle
+- HTTP client/server example
+- Section 6 recap
+- Quiz
+- Assignment (Create an HTTP server with 4 endpoints)
+- Assignment (Solution)
 
 ## Section 7 - Notes CLI app improvements
 
 - Section 7 overview
 - Create a memory cache database
 - Connect the memory cache
-- Introduction to Mutexes (Overview & examples)
+- Intro to mutexes (Overview & examples)
 - Fine tune the app - (add mutexes)
 - Background backup
 - Backup locking
