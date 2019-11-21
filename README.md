@@ -4,23 +4,27 @@
 
 ## Course overview
 
-- [Chapter 1 - Introduction](https://github.com/steevehook/udemy-go101/blob/master/chapter_1-introduction)
-- [Chapter 2 - Language Basics (I)](https://github.com/steevehook/udemy-go101/blob/master/chapter_2-language-basics-1)
-- [Chapter 3 - Language Basics (II)](https://github.com/steevehook/udemy-go101/blob/master/chapter_3-language-basics-2)
-- [Chapter 4 - Note CLI app](https://github.com/steevehook/udemy-go101/blob/master/chapter_4-notes-cli-app)
-- [Chapter 5 - Errors](https://github.com/steevehook/udemy-go101/blob/master/chapter_5-errors)
-- [Chapter 6 - Testing](https://github.com/steevehook/udemy-go101/blob/master/chapter_6-testing)
-- [Chapter 7 - Testing & Refactoring Notes CLI app](https://github.com/steevehook/udemy-go101/blob/master/chapter_7-testing-refactoring-notes-cli-app)
-- [Chapter 8 - Expenses REST API](https://github.com/steevehook/udemy-go101/blob/master/chapter_8-expenses-rest-api)
-- [Chapter 9 - Expenses REST API Auth](https://github.com/steevehook/udemy-go101/blob/master/chapter_9-expenses-rest-api-auth)
-- [Chapter 10 - Package management](https://github.com/steevehook/udemy-go101/blob/master/chapter_10-package-management)
-- [Chapter 11 - Concurrency](https://github.com/steevehook/udemy-go101/blob/master/chapter_11-concurrency)
-- [Chapter 12 - Real Time Chat app](https://github.com/steevehook/udemy-go101/blob/master/chapter_12-real-time-chat-app)
-- [Chapter 13 - Deploying Go apps](https://github.com/steevehook/udemy-go101/blob/master/chapter_13-deploying-go-apps)
-- [Chapter 14 - Go best practices](https://github.com/steevehook/udemy-go101/blob/master/chapter_14-go-best-practices)
+- [section 1 - Introduction](https://github.com/steevehook/udemy-go101/blob/master/section_1-introduction)
+- [Section 2 - Language Basics (I)](https://github.com/steevehook/udemy-go101/blob/master/section_2-language-basics-1)
+- [Section 3 - Language Basics (II)](https://github.com/steevehook/udemy-go101/blob/master/section_3-language-basics-2)
+- [Section 4 - Note CLI app](https://github.com/steevehook/udemy-go101/blob/master/section_4-notes-cli-app)
+- [Section 5 - Interfaces](https://github.com/steevehook/udemy-go101/blob/master/section_5-interfaces)
+- [Section 6 - Errors](https://github.com/steevehook/udemy-go101/blob/master/section_6-errors)
+- [Section 7 - Refactor Notes CLI app](https://github.com/steevehook/udemy-go101/blob/master/section_7-refactor-notes-cli-app)
+- [Section 8 - Testing](https://github.com/steevehook/udemy-go101/blob/master/section_8-testing)
+- [Section 9 - Testing Notes CLI app](https://github.com/steevehook/udemy-go101/blob/master/section_9-testing-notes-cli-app)
+- [Section 10 - Expenses REST API](https://github.com/steevehook/udemy-go101/blob/master/section_10-expenses-rest-api)
+- [Section 11 - Expenses REST API Auth](https://github.com/steevehook/udemy-go101/blob/master/section_11-expenses-rest-api-auth)
+- [Section 12 - Package management](https://github.com/steevehook/udemy-go101/blob/master/section_12-package-management)
+- [Section 13 - Concurrency](https://github.com/steevehook/udemy-go101/blob/master/section_13-concurrency)
+- [Section 14 - Real Time Chat app](https://github.com/steevehook/udemy-go101/blob/master/section_14-real-time-chat-app)
+- [Section 15 - Deploying Go apps](https://github.com/steevehook/udemy-go101/blob/master/section_15-deploying-go-apps)
+- [Section 16 - Go best practices](https://github.com/steevehook/udemy-go101/blob/master/section_16-go-best-practices)
 - [Farewell & Resources](https://github.com/steevehook/udemy-go101/blob/master/farewell-and-resources)
 
 ### Udemy course
+
+<img src="https://github.com/steevehook/udemy-go101/raw/master/udemy-go101-cover.svg?sanitize=true" width="1920px"/>
 
 [Link to Udemy course HERE](https://www.google.com)
 
@@ -176,4 +180,4 @@ go get -u golang.org/x/tools/cmd/goimports
 
 Happy hacking gophers 🚀🚀🚀
 
-<img src="https://github.com/steevehook/udemy-go101/raw/master/go101.svg?sanitize=true" width="150px"/>
+<img src="https://github.com/steevehook/udemy-go101/raw/master/udemy-go101.svg?sanitize=true" width="150px"/>

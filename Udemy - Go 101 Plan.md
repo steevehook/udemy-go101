@@ -135,7 +135,7 @@ Estimated course time >= 20 hours
 - Assignment (Solution)
 - Section 6 recap
 
-## Section 9 - Test Notes CLI app
+## Section 9 - Testing Notes CLI app
 
 - Small overview on Section 7
 - Code smells & bad architecture design & solutions
