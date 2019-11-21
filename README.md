@@ -9,18 +9,22 @@
 - [Section 3 - Language Basics (II)](https://github.com/steevehook/udemy-go101/blob/master/section_3-language-basics-2)
 - [Section 4 - Note CLI app](https://github.com/steevehook/udemy-go101/blob/master/section_4-notes-cli-app)
 - [Section 5 - Interfaces](https://github.com/steevehook/udemy-go101/blob/master/section_5-interfaces)
-- [Section 6 - Errors](https://github.com/steevehook/udemy-go101/blob/master/section_6-errors)
-- [Section 7 - Refactor Notes CLI app](https://github.com/steevehook/udemy-go101/blob/master/section_7-refactor-notes-cli-app)
-- [Section 8 - Testing](https://github.com/steevehook/udemy-go101/blob/master/section_8-testing)
-- [Section 9 - Testing Notes CLI app](https://github.com/steevehook/udemy-go101/blob/master/section_9-testing-notes-cli-app)
-- [Section 10 - Expenses REST API](https://github.com/steevehook/udemy-go101/blob/master/section_10-expenses-rest-api)
-- [Section 11 - Expenses REST API Auth](https://github.com/steevehook/udemy-go101/blob/master/section_11-expenses-rest-api-auth)
-- [Section 12 - Package management](https://github.com/steevehook/udemy-go101/blob/master/section_12-package-management)
-- [Section 13 - Concurrency](https://github.com/steevehook/udemy-go101/blob/master/section_13-concurrency)
-- [Section 14 - Real Time Chat app](https://github.com/steevehook/udemy-go101/blob/master/section_14-real-time-chat-app)
-- [Section 15 - Deploying Go apps](https://github.com/steevehook/udemy-go101/blob/master/section_15-deploying-go-apps)
-- [Section 16 - Go best practices](https://github.com/steevehook/udemy-go101/blob/master/section_16-go-best-practices)
+- [Section 6 - Exploring `net` & `net/http`](https://github.com/steevehook/udemy-go101/blob/master/section_6-exploring-net-http)
+- [Section 7 - Notes CLI app improvements](https://github.com/steevehook/udemy-go101/blob/master/section_7-notes-cli-app-improvements)
+- [Section 8 - Errors](https://github.com/steevehook/udemy-go101/blob/master/section_8-errors)
+- [Section 9 - Refactor Notes CLI app](https://github.com/steevehook/udemy-go101/blob/master/section_9-refactor-notes-cli-app)
+- [Section 10 - Testing](https://github.com/steevehook/udemy-go101/blob/master/section_10-testing)
+- [Section 11 - Testing Notes CLI app](https://github.com/steevehook/udemy-go101/blob/master/section_11-testing-notes-cli-app)
+- [Section 12 - Expenses REST API](https://github.com/steevehook/udemy-go101/blob/master/section_12-expenses-rest-api)
+- [Section 13 - Expenses REST API Auth](https://github.com/steevehook/udemy-go101/blob/master/section_13-expenses-rest-api-auth)
+- [Section 14 - Package management](https://github.com/steevehook/udemy-go101/blob/master/section_14-package-management)
+- [Section 15 - Concurrency](https://github.com/steevehook/udemy-go101/blob/master/section_15-concurrency)
+- [Section 16 - Real Time Chat app](https://github.com/steevehook/udemy-go101/blob/master/section_16-real-time-chat-app)
+- [Section 17 - Deploying Go apps](https://github.com/steevehook/udemy-go101/blob/master/section_17-deploying-go-apps)
+- [Section 18 - Go best practices](https://github.com/steevehook/udemy-go101/blob/master/section_18-go-best-practices)
 - [Farewell & Resources](https://github.com/steevehook/udemy-go101/blob/master/farewell-and-resources)
+
+For more info on the course check out the [Curriculum](https://github.com/steevehook/udemy-go101/blob/master/curriculum.md)
 
 ### Udemy course
 
@@ -164,9 +168,9 @@ go get -u golang.org/x/tools/cmd/goimports
 
 ### For more info about Go commands & WORKSPACE check out
 
-[Go commands explained](https://github.com/gophertuts/go-basics/blob/master/go-commands.md)
+[Go commands explained](https://github.com/steevehook/udemy-go101/blob/master/go-commands.md)
 
-[Go WORKSPACE explained](https://github.com/gophertuts/go-basics/blob/master/go-workspace.md)
+[Go WORKSPACE explained](https://github.com/steevehook/udemy-go101/blob/master/go-workspace.md)
 
 ## FEEDBACK ⚗
 

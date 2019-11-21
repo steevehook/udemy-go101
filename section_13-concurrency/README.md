@@ -1,1 +1,1 @@
-# Chapter 11 - Concurrency
+# Section 11 - Concurrency

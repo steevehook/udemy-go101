@@ -71,20 +71,19 @@ Estimated course time >= 20 hours
 
 ## Section 4 - Notes CLI App
 
-- Introduction to Notes App
-- Create a CLI interface
-- Read OS args
-- Create read command
-- Create write command
-- Exploring the net package
-- Create a memory cache database
-- Connect the memory cache
-- Introduction to Mutexes (Overview & examples)
-- Fine tune the app - (add mutexes)
-- Notes backup improvement (explanation)
-- Write the backup utility
-- Introduction to `os.Signal`
-- Make backup before program exits
+- Introduction to Notes App (CLI app design & expectations)
+- Introduction to `os.Args`
+- Read CLI args
+- Create command switch
+- Intro to `os` package (Read/Write/Delete file)
+- Create note
+- Read note
+- Delete note
+- Intro to `archive/zip` package (Zip/unzip files)
+- Backup notes
+- Ingest notes
+- Intro to `os.Signal` package
+- Graceful app shutdown
 - Section 4 recap
 
 ## Section 5 - Interfaces
@@ -95,9 +94,22 @@ Estimated course time >= 20 hours
 - Implement some STD lib interfaces & use them
 - Interfaces - Type Assertion
 
-## Section 6 - Errors
+## Section 6 - Exploring `net` & `net/http`
 
-- Small overview of Section 5
+- Exploring the `net` package
+
+## Section 7 - Notes CLI app improvements
+
+- Create a memory cache database
+- Connect the memory cache
+- Introduction to Mutexes (Overview & examples)
+- Fine tune the app - (add mutexes)
+- Background backup
+- Backup locking
+
+## Section 8 - Errors
+
+- Small overview of Section 8
 - Errors in Go. (val, err) pattern
 - Error interface & Custom errors
 - What is defer? Example
@@ -112,10 +124,10 @@ Estimated course time >= 20 hours
 - Assignment (Solution)
 - Section 5 recap
 
-## Section 7 - Refactor Notes CLI app
+## Section 9 - Refactor Notes CLI app
 
-## Section 8 - Testing
-- Small overview on Section 6
+## Section 10 - Testing
+- Small overview on Section 10
 - Testing in Go (overview)
 - Testing functions
 - Testing types
@@ -135,9 +147,9 @@ Estimated course time >= 20 hours
 - Assignment (Solution)
 - Section 6 recap
 
-## Section 9 - Testing Notes CLI app
+## Section 11 - Testing Notes CLI app
 
-- Small overview on Section 7
+- Small overview on Section 11
 - Code smells & bad architecture design & solutions
 - SOLID - explanation
 - Explain how the app refactoring
@@ -149,7 +161,7 @@ Estimated course time >= 20 hours
 - Integration test the whole CLI app
 - Section 7 recap
 
-## Section 10 - Expenses REST API
+## Section 12 - Expenses REST API
 
 - Introduction to Expenses REST API (Overview)
 - Introduction to client - server architecture
@@ -188,9 +200,9 @@ Estimated course time >= 20 hours
 - Assignment (Finish couple of endpoints & test them)
 - Section 7 recap
 
-## Section 11 - Expenses REST API Auth
+## Section 13 - Expenses REST API Auth
 
-- Small overview on Section 9
+- Small overview on Section 13
 - Introduction to router middleware
 - Create Auth middleware
 - Guard private routes with Auth middleware
@@ -202,9 +214,9 @@ Estimated course time >= 20 hours
 - Assignment solution
 - Section 9 recap
 
-## Section 12 - Package management
+## Section 14 - Package management
 
-- Small overview on Section 10
+- Small overview on Section 14
 - Explaining packages in depth
 - Package management & go get
 - Go mod (vgo)
@@ -212,9 +224,9 @@ Estimated course time >= 20 hours
 - Migrate Expenses REST API to Go modules
 - Section 10 recap
 
-## Section 13 - Concurrency
+## Section 15 - Concurrency
 
-- Small overview on Section 11
+- Small overview on Section 15
 - Concurrency is not Parallelism. 1 CPU concurrency vs multi CPU concurrency
 - Channels
 - Buffered channels
@@ -235,7 +247,7 @@ Estimated course time >= 20 hours
 - Assignment
 - Section 8 recap
 
-## Section 14 - Real Time Chat
+## Section 16 - Real Time Chat
 
 - Small overview of the chat app
 - Introduction to web sockets
@@ -252,9 +264,9 @@ Estimated course time >= 20 hours
 - Connect the **Server** with **Messages** repository
 - Improvements (Test the application)
 
-## Section 15 - Deploying Go apps
+## Section 17 - Deploying Go apps
 
-- Small overview on Section 13
+- Small overview on Section 17
 - Introduction to SystemD
 - DigitalOcean
 - Amazon
@@ -267,9 +279,9 @@ Estimated course time >= 20 hours
 - Assignment (Solution)
 - Section 13 recap
 
-## Section 16 - Go best practices
+## Section 18 - Go best practices
 
-- Small overview on Section 13
+- Small overview on Section 18
 - CodeReviewComments
 - Write docs
 - Better copy paste than write wrong abstraction
@@ -286,3 +298,11 @@ Estimated course time >= 20 hours
 ## Farewell & Resources
 
 - Resources, social media contacts (GopherTuts) & Good bye (fare well)
+
+[Back](https://github.com/steevehook/udemy-go101)
+
+---
+
+Happy hacking gophers 🚀🚀🚀
+
+<img src="https://github.com/steevehook/udemy-go101/raw/master/udemy-go101.svg?sanitize=true" width="150px"/>
