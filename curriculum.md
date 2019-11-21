@@ -89,11 +89,18 @@ Estimated course time ~28 hours
 ## Section 5 - Interfaces
 
 - Section 5 overview
-- Interfaces - general overview
-- Interfaces in Std Lib
-- Interface{} type
-- Implement some STD lib interfaces & use them
-- Interfaces - Type Assertion
+- Interfaces overview
+- STD lib interfaces (Error, Stringer, Handler)
+- Reader
+- Writer
+- Handler
+- interface{} type
+- Type assertion
+- Custom HTTP transport
+- Section 5 recap
+- Quiz
+- Assignment (Convert a piece of code to use interfaces)
+- Assignment Solution
 
 ## Section 6 - Exploring `net` & `net/http`
 
@@ -121,7 +128,6 @@ Estimated course time ~28 hours
 - Panic recovery middleware
 - Type assertion recap
 - Error checking & examples
-- Build a custom HTTP transport
 - Error handling good practices
 - Assignment (Problem)
 - Assignment (Solution)
@@ -204,6 +210,7 @@ Estimated course time ~28 hours
 - Testing the config file
 - Add integration tests for Notes REST API
 - Assignment (Finish couple of endpoints & test them)
+- Add a Makefile
 - Section 7 recap
 
 ## Section 13 - Expenses REST API Auth
