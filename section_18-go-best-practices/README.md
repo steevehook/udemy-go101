@@ -1,1 +1,1 @@
-# Section 14 - Go best practices
+# Section 18 - Go best practices

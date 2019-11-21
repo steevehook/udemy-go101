@@ -1,1 +1,1 @@
-# Section 13 - Deploying Go apps
+# Section 17 - Deploying Go apps
