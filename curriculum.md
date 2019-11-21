@@ -1,6 +1,6 @@
-# Udemy - Go 101 Plan
+# Udemy - Go 101 Curriculum
 
-Estimated course time >= 20 hours
+Estimated course time ~28 hours
 
 ## Section 1 - Introduction
 
@@ -72,7 +72,7 @@ Estimated course time >= 20 hours
 ## Section 4 - Notes CLI App
 
 - Introduction to Notes App (CLI app design & expectations)
-- Introduction to `os.Args`
+- Intro to `os.Args`
 - Read CLI args
 - Create command switch
 - Intro to `os` package (Read/Write/Delete file)
@@ -82,12 +82,13 @@ Estimated course time >= 20 hours
 - Intro to `archive/zip` package (Zip/unzip files)
 - Backup notes
 - Ingest notes
-- Intro to `os.Signal` package
+- Intro to `os.Signal`
 - Graceful app shutdown
 - Section 4 recap
 
 ## Section 5 - Interfaces
 
+- Section 5 overview
 - Interfaces - general overview
 - Interfaces in Std Lib
 - Interface{} type
@@ -96,10 +97,12 @@ Estimated course time >= 20 hours
 
 ## Section 6 - Exploring `net` & `net/http`
 
+- Section 6 overview
 - Exploring the `net` package
 
 ## Section 7 - Notes CLI app improvements
 
+- Section 7 overview
 - Create a memory cache database
 - Connect the memory cache
 - Introduction to Mutexes (Overview & examples)
@@ -109,7 +112,7 @@ Estimated course time >= 20 hours
 
 ## Section 8 - Errors
 
-- Small overview of Section 8
+- Section 8 overview
 - Errors in Go. (val, err) pattern
 - Error interface & Custom errors
 - What is defer? Example
@@ -126,8 +129,10 @@ Estimated course time >= 20 hours
 
 ## Section 9 - Refactor Notes CLI app
 
+- Section 9 overview
+
 ## Section 10 - Testing
-- Small overview on Section 10
+- Section 10 overview
 - Testing in Go (overview)
 - Testing functions
 - Testing types
@@ -149,6 +154,7 @@ Estimated course time >= 20 hours
 
 ## Section 11 - Testing Notes CLI app
 
+- Section 11 overview
 - Small overview on Section 11
 - Code smells & bad architecture design & solutions
 - SOLID - explanation
@@ -202,7 +208,7 @@ Estimated course time >= 20 hours
 
 ## Section 13 - Expenses REST API Auth
 
-- Small overview on Section 13
+- Section 13 overview
 - Introduction to router middleware
 - Create Auth middleware
 - Guard private routes with Auth middleware
@@ -216,7 +222,7 @@ Estimated course time >= 20 hours
 
 ## Section 14 - Package management
 
-- Small overview on Section 14
+- Section 14 overview
 - Explaining packages in depth
 - Package management & go get
 - Go mod (vgo)
@@ -226,7 +232,7 @@ Estimated course time >= 20 hours
 
 ## Section 15 - Concurrency
 
-- Small overview on Section 15
+- Section 15 overview
 - Concurrency is not Parallelism. 1 CPU concurrency vs multi CPU concurrency
 - Channels
 - Buffered channels
@@ -266,7 +272,7 @@ Estimated course time >= 20 hours
 
 ## Section 17 - Deploying Go apps
 
-- Small overview on Section 17
+- Section 17 overview
 - Introduction to SystemD
 - DigitalOcean
 - Amazon
@@ -281,7 +287,7 @@ Estimated course time >= 20 hours
 
 ## Section 18 - Go best practices
 
-- Small overview on Section 18
+- Section 18 overview
 - CodeReviewComments
 - Write docs
 - Better copy paste than write wrong abstraction
