@@ -4,17 +4,17 @@ Estimated course time ~28 hours
 
 ## Section 1 - Introduction
 
-- Course Introduction & About the author
-- Course rules & useful resources (Q&A, Documentation, code sharing & others, Discord)
+- Course overview. About the author (Mac, Windows 10, Ubuntu 18, RaspberryPi)
+- Resources. Code. Community (Q&A, Documentation, code sharing & others, Discord)
 - Go in a nutshell. Go authors & philosophy
 - Installation on Mac (Go & Git)
 - Installation on Windows (Go & Git)
-- Installation on Linux (Go & Git)
+- Installation on Linux (Ubuntu & RaspberryPi) (Go & Git)
 - Git basics & Github (clone udemy-go101) 
 - $GOPATH & directory structure
 - Hello World
 - Section 1 recap
-- Section 1 quiz
+- Quiz
 
 ## Section 2 - Language Basics (I)
 
@@ -22,7 +22,7 @@ Estimated course time ~28 hours
 - Basic Go commands
 - Packages (executable & non executable)
 - Executable & non-executable packages
-- Basic Types
+- Basic types
 - **const** & **var** declarations
 - Reserved keywords & operators
 - Aggregate types overview
@@ -32,7 +32,7 @@ Estimated course time ~28 hours
 - **cap** function
 - **append** function
 - **make** function
-- Arrays/Slices addressing
+- Arrays/Slices addressing (range selections)
 - Control structures overview (if, else, switch, for)
 - if/else statement
 - switch statement
@@ -43,7 +43,7 @@ Estimated course time ~28 hours
 - Maps - comma, ok syntax
 - Nil map
 - Maps - delete function
-- Map implementation (Bucket)
+- Map implementation (Bucket example)
 - Zero values
 - Section 2 recap
 - Quiz
@@ -52,13 +52,13 @@ Estimated course time ~28 hours
 
 - Section 3 overview
 - Strucs
-- Structs - exported / unexported
+- Structs - exported/unexported
 - Structs - field promotion
 - Functions
 - Function - multiple return (data, error)
 - Closures
 - Custom types
-- Methods (function receivers)
+- Methods (func receivers)
 - Pointers
 - Pointer vs value (Everything is passed by value)
 - Marshalling & Unmarshalling (Overview)
@@ -78,12 +78,9 @@ Estimated course time ~28 hours
 - Read CLI args
 - Create command switch
 - Intro to `os` package (Read/Write/Delete file)
-- Create note
-- Read note
-- Delete note
-- Intro to `archive/zip` package (Zip/unzip files)
-- Backup notes
-- Ingest notes
+- Create note (write to file)
+- Read note (read from file)
+- Delete note (read from file & delete & write to file)
 - Intro to `os.Signal`
 - Graceful app shutdown
 - Section 4 recap
@@ -128,12 +125,16 @@ Estimated course time ~28 hours
 ## Section 7 - Notes CLI app improvements
 
 - Section 7 overview
-- Create a memory cache database
-- Connect the memory cache
+- Create a MemCache DB (Set & Get -> map[uuid]Note)
+- Connect MemCache to Notes (create|read|delete without backup)
 - Intro to mutexes (Overview & examples)
-- Fine tune the app - (add mutexes)
-- Background backup
-- Backup locking
+- Add mutex to Get and Set
+- Background backup (once 10s)
+- Improved backup - overview (add slice & uuid)
+- Intro to UUID
+- Add UUID to MemCache
+- Improve backup with `[]UUID` ([]UUID for future backup)
+- Section 7 recap
 
 ## Section 8 - Errors
 
