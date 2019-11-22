@@ -141,16 +141,16 @@ Estimated course time ~28 hours
 - Section 8 overview
 - Errors in Go. (val, err) pattern
 - Error interface & Custom errors
-- What is defer? Example
-- What is panic? Example
-- Panic & recover example
+- **defer**
+- **panic**
+- **recover**
 - Panic recovery middleware
-- Type assertion recap
 - Error checking & examples
+- Type assertion recap
 - Error handling good practices
 - Assignment (Problem)
 - Assignment (Solution)
-- Section 5 recap
+- Section 8 recap
 
 ## Section 9 - Refactor Notes CLI app
 
@@ -175,7 +175,7 @@ Estimated course time ~28 hours
 - Benchmark testing
 - Assignment (Test a piece of code with dependencies)
 - Assignment (Solution)
-- Section 6 recap
+- Section 10 recap
 
 ## Section 11 - Testing Notes CLI app
 
@@ -190,7 +190,7 @@ Estimated course time ~28 hours
 - Unit test each component
 - Write docs for exported symbols
 - Integration test the whole CLI app
-- Section 7 recap
+- Section 11 recap
 
 ## Section 12 - Expenses REST API
 
@@ -230,7 +230,7 @@ Estimated course time ~28 hours
 - Add integration tests for Notes REST API
 - Assignment (Finish couple of endpoints & test them)
 - Add a Makefile
-- Section 7 recap
+- Section 12 recap
 
 ## Section 13 - Expenses REST API Auth
 
@@ -244,7 +244,7 @@ Estimated course time ~28 hours
 - Testing all routes using Postman and Auth bearer token
 - Assignment (add auth middleware & tests for some private routes)
 - Assignment solution
-- Section 9 recap
+- Section 13 recap
 
 ## Section 14 - Package management
 
@@ -254,7 +254,7 @@ Estimated course time ~28 hours
 - Go mod (vgo)
 - Migration to Go mod
 - Migrate Expenses REST API to Go modules
-- Section 10 recap
+- Section 14 recap
 
 ## Section 15 - Concurrency
 
@@ -277,7 +277,7 @@ Estimated course time ~28 hours
 - Health check example (HTTP roundtripper)
 - Enhance Notes App to use multiple connections
 - Assignment
-- Section 8 recap
+- Section 15 recap
 
 ## Section 16 - Real Time Chat
 
@@ -295,6 +295,7 @@ Estimated course time ~28 hours
 - Create **Messages** repository
 - Connect the **Server** with **Messages** repository
 - Improvements (Test the application)
+- Section 16 recap
 
 ## Section 17 - Deploying Go apps
 
@@ -309,7 +310,7 @@ Estimated course time ~28 hours
 - Jenkins
 - Assignment (Deploy Expenses REST API)
 - Assignment (Solution)
-- Section 13 recap
+- Section 17 recap
 
 ## Section 18 - Go best practices
 
@@ -325,7 +326,7 @@ Estimated course time ~28 hours
 - Use a logger
 - Always check for race conditions
 - Splitting packages/files
-- Section 14 recap
+- Section 18 recap
 
 ## Farewell & Resources
 
