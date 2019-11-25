@@ -10,8 +10,8 @@ Estimated course time ~28 hours
 - Installation on Mac (Go, Git & Editor)
 - Installation on Windows (Go, Git & Editor)
 - Installation on Linux (Ubuntu & RaspberryPi) (Go, Git & Editor)
-- Git basics & Github (clone udemy-go101) 
-- $GOPATH & directory structure
+- Git basics & Github (clone udemy-go101, repo structure)
+- `$GOPATH` & directory structure
 - Hello World
 - Section 1 recap
 - [Quiz](https://github.com/steevehook/udemy-go101/blob/master/section_1-introduction/quiz)
@@ -165,7 +165,7 @@ Estimated course time ~28 hours
 - Code split (files & packages)
 - Avoid global vars
 - Decoupling & func helpers
-- Use `ReadWriteCloser` instead of `File`
+- From `File` to `ReadWriteCloser`
 - Document exported symbols
 - Section 9 recap
 
@@ -225,17 +225,17 @@ Estimated course time ~28 hours
 - MVC overview
 - Middleware/Controller/Service/DB Layer overview
 - CRUD explanation & API endpoints overview
-- Create GET /expenses
-- Test GET /expenses
+- Create `GET /expenses`
+- Test `GET /expenses`
 - Introduction to Postman. Testing the first endpoint
-- Create GET /expenses/{id}
-- Test GET /expenses/{id}
-- Create POST /expenses
-- Test POST /expenses
-- Create PATCH /expenses/{id}
-- Test PATCH /expenses/{id}
-- Create DELETE /expenses/{id}
-- Test DELETE /expenses/{id}
+- Create `GET /expenses/{id}`
+- Test `GET /expenses/{id}`
+- Create `POST /expenses`
+- Test `POST /expenses`
+- Create `PATCH /expenses/{id}`
+- Test `PATCH /expenses/{id}`
+- Create `DELETE /expenses/{id}`
+- Test `DELETE /expenses/{id}`
 - Database layer. Repository pattern
 - Create Notes repository
 - Test Notes repository
