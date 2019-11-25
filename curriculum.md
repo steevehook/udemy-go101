@@ -190,9 +190,10 @@ Estimated course time ~28 hours
 - Parallel testing
 - Benchmark testing
 - Test coverage script
-- Assignment (Test a piece of code with dependencies)
-- Assignment (Solution)
 - Section 10 recap
+- [Quiz](https://github.com/steevehook/udemy-go101/blob/master/section_10-testing/quiz)
+- [Assignment - Problem](https://github.com/steevehook/udemy-go101/blob/master/section_10-testing/assignment)
+- [Assignment - Solution](https://github.com/steevehook/udemy-go101/blob/master/section_10-testing/assignment)
 
 ## Section 11 - Testing Notes CLI app
 
@@ -279,6 +280,9 @@ Estimated course time ~28 hours
 - Migration to Go mod
 - Migrate Expenses REST API to Go modules
 - Section 15 recap
+- [Quiz](https://github.com/steevehook/udemy-go101/blob/master/section_15-package-management/quiz)
+- [Assignment - Problem](https://github.com/steevehook/udemy-go101/blob/master/section_15-package-management/assignment)
+- [Assignment - Solution](https://github.com/steevehook/udemy-go101/blob/master/section_15-package-management/assignment)
 
 ## Section 16 - Concurrency
 
@@ -302,6 +306,9 @@ Estimated course time ~28 hours
 - Enhance Notes App to use multiple connections
 - Assignment
 - Section 16 recap
+- [Quiz](https://github.com/steevehook/udemy-go101/blob/master/section_16-concurrency/quiz)
+- [Assignment - Problem](https://github.com/steevehook/udemy-go101/blob/master/section_16-concurrency/assignment)
+- [Assignment - Solution](https://github.com/steevehook/udemy-go101/blob/master/section_16-concurrency/assignment)
 
 ## Section 17 - Real Time Chat
 
@@ -326,7 +333,12 @@ Estimated course time ~28 hours
 - Section 18 overview
 - Intro to Go special files
 - Intro to build tags
+- `$GOOS` & `$GOARCH`
+- Generate binaries checksum
 - Section 18 recap
+- [Quiz](https://github.com/steevehook/udemy-go101/blob/master/section_18-platform-specific-software/quiz)
+- [Assignment - Problem](https://github.com/steevehook/udemy-go101/blob/master/section_18-platform-specific-software/assignment)
+- [Assignment - Solution](https://github.com/steevehook/udemy-go101/blob/master/section_18-platform-specific-software/assignment)
 
 ## Section 19 - Debugging
 
@@ -338,6 +350,7 @@ Estimated course time ~28 hours
 - `pprof`
 - `ldflags`
 - Section 19 recap
+- [Quiz](https://github.com/steevehook/udemy-go101/blob/master/section_19-debugging/quiz)
 
 ## Section 20 - Deploying Go apps
 
@@ -350,9 +363,10 @@ Estimated course time ~28 hours
 - Docker
 - Deploy "Real Time Chat" app
 - Jenkins
-- Assignment (Deploy Expenses REST API)
-- Assignment (Solution)
 - Section 20 recap
+- [Quiz](https://github.com/steevehook/udemy-go101/blob/master/section_20-deploying-go-apps/quiz)
+- [Assignment - Problem](https://github.com/steevehook/udemy-go101/blob/master/section_20-deploying-go-apps/assignment)
+- [Assignment - Solution](https://github.com/steevehook/udemy-go101/blob/master/section_20-deploying-go-apps/assignment)
 
 ## Section 21 - Go best practices
 
@@ -369,6 +383,7 @@ Estimated course time ~28 hours
 - Always check for race conditions
 - Splitting packages/files
 - Section 21 recap
+- [Quiz](https://github.com/steevehook/udemy-go101/blob/master/section_21-go-best-practices/quiz)
 
 ## Farewell & Resources
 
