@@ -7,9 +7,9 @@ Estimated course time ~28 hours
 - Course overview. About the author (Mac, Windows 10, Ubuntu 18, RaspberryPi)
 - Resources. Code. Community (Q&A, Documentation, code sharing & others, Discord)
 - Go in a nutshell. Go authors & philosophy
-- Installation on Mac (Go & Git)
-- Installation on Windows (Go & Git)
-- Installation on Linux (Ubuntu & RaspberryPi) (Go & Git)
+- Installation on Mac (Go, Git & Editor)
+- Installation on Windows (Go, Git & Editor)
+- Installation on Linux (Ubuntu & RaspberryPi) (Go, Git & Editor)
 - Git basics & Github (clone udemy-go101) 
 - $GOPATH & directory structure
 - Hello World
@@ -62,7 +62,8 @@ Estimated course time ~28 hours
 - Pointers
 - Pointer vs value (Everything is passed by value)
 - Marshalling & Unmarshalling (Overview)
-- Structs JSON
+- Struct tags
+- Structs - JSON
 - Arrays/Slices JSON
 - Maps JSON
 - JSON Unmarshalling
@@ -133,7 +134,7 @@ Estimated course time ~28 hours
 - Improved backup - overview (add slice & uuid)
 - Intro to UUID
 - Add UUID to MemCache
-- Improve backup with `[]UUID` ([]UUID for future backup)
+- Improve backup with `[]UUID`
 - Section 7 recap
 
 ## Section 8 - Errors
@@ -155,6 +156,14 @@ Estimated course time ~28 hours
 ## Section 9 - Refactor Notes CLI app
 
 - Section 9 overview
+- Code smells & solutions
+- Intro to SOLID
+- Split into multiple files & packages
+- Get rid of global variables
+- Function decoupling & helpers
+- Use `ReadWriteCloser` instead of `File`
+- Document exported symbols
+- Section 9 recap
 
 ## Section 10 - Testing
 - Section 10 overview
@@ -180,16 +189,13 @@ Estimated course time ~28 hours
 ## Section 11 - Testing Notes CLI app
 
 - Section 11 overview
-- Small overview on Section 11
-- Code smells & bad architecture design & solutions
-- SOLID - explanation
-- Explain how the app refactoring
-- Replace implementations with abstract interfaces
-- Extract big functionalities in function helpers
-- Create separate types & unit test them individually
-- Unit test each component
-- Write docs for exported symbols
-- Integration test the whole CLI app
+- Test **create**
+- Test **read**
+- Test **delete**
+- Test **shutdown**
+- Test **backup**
+- Test MemCache
+- Integration test
 - Section 11 recap
 
 ## Section 12 - Expenses REST API
@@ -207,6 +213,8 @@ Estimated course time ~28 hours
 - Basic MariaDB CLI commands (CRUD)
 - MariaDB Go example
 - Docker MariaDB tinkering
+- Intro to ORM (Object Relational Mapping)
+- ORM vs DAL (Data Access Layer)
 - Configure the app structure & dependencies
 - MVC overview
 - Middleware/Controller/Service/DB Layer overview
@@ -246,19 +254,27 @@ Estimated course time ~28 hours
 - Assignment solution
 - Section 13 recap
 
-## Section 14 - Package management
+## Section 14 - Expenses REST API Session
 
 - Section 14 overview
+- HTTP session intro
+- Introduction to Redis
+- Intro to RegEx
+- Section 14 recap
+
+## Section 15 - Package management
+
+- Section 15 overview
 - Explaining packages in depth
 - Package management & go get
 - Go mod (vgo)
 - Migration to Go mod
 - Migrate Expenses REST API to Go modules
-- Section 14 recap
+- Section 15 recap
 
-## Section 15 - Concurrency
+## Section 16 - Concurrency
 
-- Section 15 overview
+- Section 16 overview
 - Concurrency is not Parallelism. 1 CPU concurrency vs multi CPU concurrency
 - Channels
 - Buffered channels
@@ -273,13 +289,13 @@ Estimated course time ~28 hours
 - Concurrency patterns
 - Channels - FAN IN / FAN OUT
 - Common concurrency issues & race conditions
-- -race flag
+- `-race` flag
 - Health check example (HTTP roundtripper)
 - Enhance Notes App to use multiple connections
 - Assignment
-- Section 15 recap
+- Section 16 recap
 
-## Section 16 - Real Time Chat
+## Section 17 - Real Time Chat
 
 - Small overview of the chat app
 - Introduction to web sockets
@@ -295,11 +311,29 @@ Estimated course time ~28 hours
 - Create **Messages** repository
 - Connect the **Server** with **Messages** repository
 - Improvements (Test the application)
-- Section 16 recap
+- Section 17 recap
 
-## Section 17 - Deploying Go apps
+## Section 18 - Platform Specific Software
 
-- Section 17 overview
+- Section 18 overview
+- Intro to Go special files
+- Intro to build tags
+- Section 18 recap
+
+## Section 19 - Debugging
+
+- Section 19 overview
+- Delve
+- Memory Footprint
+- CPU usage
+- `runtime/trace` & `x/net/trace`
+- `pprof`
+- `ldflags`
+- Section 19 recap
+
+## Section 20 - Deploying Go apps
+
+- Section 20 overview
 - Introduction to SystemD
 - DigitalOcean
 - Amazon
@@ -310,11 +344,11 @@ Estimated course time ~28 hours
 - Jenkins
 - Assignment (Deploy Expenses REST API)
 - Assignment (Solution)
-- Section 17 recap
+- Section 20 recap
 
-## Section 18 - Go best practices
+## Section 21 - Go best practices
 
-- Section 18 overview
+- Section 21 overview
 - CodeReviewComments
 - Write docs
 - Better copy paste than write wrong abstraction
@@ -326,7 +360,7 @@ Estimated course time ~28 hours
 - Use a logger
 - Always check for race conditions
 - Splitting packages/files
-- Section 18 recap
+- Section 21 recap
 
 ## Farewell & Resources
 
