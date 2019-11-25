@@ -13,6 +13,7 @@ Estimated course time ~28 hours
 - Git basics & Github (clone udemy-go101, repo structure)
 - `$GOPATH` & directory structure
 - Hello World
+- Basic Go commands (`run` `build` `install` `get` `test`)
 - Section 1 recap
 - [Quiz](https://github.com/steevehook/udemy-go101/blob/master/section_1-introduction/quiz)
 
@@ -112,7 +113,10 @@ Estimated course time ~28 hours
 - net client & `net.Dial`
 - Intro to HTTP protocol
 - HTTP server with `net`
-- HTTP router/mux
+- Create HTTP router/mux
+- Intro to query & path params 
+- Intro to RegEx
+- Add UUID request param
 - Explore `net/http` package
 - Create an HTTP client
 - HTTP server with `net/http`
@@ -201,33 +205,31 @@ Estimated course time ~28 hours
 - Test **shutdown**
 - Test **backup**
 - Test MemCache
-- Integration test
+- Integration test Notes app
 - Section 11 recap
 
 ## Section 12 - Expenses REST API
 
-- Introduction to Expenses REST API (Overview)
-- Introduction to client - server architecture
-- Introduction to HTTP protocol
-- Introduction to REST (resources & verbs example)
-- Introduction to net/http package
-- Create a small HTTP server with 2 REST endpoints
-- Introduction to Databases. SQL vs NoSQL
-- Introduction to containerization
-- Introduction to Docker - Basic commands
-- Introduction to MariaDB & SQL
+- Intro to Expenses REST API (Overview)
+- Intro to **client** / **server** architecture
+- Intro to REST (resources & verbs example)
+- Small REST API (with 2 endpoints)
+- Intro to Databases. SQL vs NoSQL
+- Intro to containerization
+- Intro to Docker - Basic commands (`run` `ps` `pull` `exec` `logs` `rm` `build`)
+- Intro to MariaDB & SQL
 - Basic MariaDB CLI commands (CRUD)
 - MariaDB Go example
 - Docker MariaDB tinkering
 - Intro to ORM (Object Relational Mapping)
 - ORM vs DAL (Data Access Layer)
-- Configure the app structure & dependencies
+- App structure & dependencies
 - MVC overview
-- Middleware/Controller/Service/DB Layer overview
-- CRUD explanation & API endpoints overview
+- Middleware/Controller/Service/Repo overview
+- CRUD & API endpoints overview
 - Create `GET /expenses`
 - Test `GET /expenses`
-- Introduction to Postman. Testing the first endpoint
+- Intro to Postman. Test 1st endpoint (Share Postman collection)
 - Create `GET /expenses/{id}`
 - Test `GET /expenses/{id}`
 - Create `POST /expenses`
@@ -237,35 +239,58 @@ Estimated course time ~28 hours
 - Create `DELETE /expenses/{id}`
 - Test `DELETE /expenses/{id}`
 - Database layer. Repository pattern
-- Create Notes repository
+- Notes repository
 - Test Notes repository
 - Read from config file
 - Testing the config file
-- Add integration tests for Notes REST API
-- Assignment (Finish couple of endpoints & test them)
-- Add a Makefile
+- Integration test `GET /expenses`
+- Integration test `GET /expenses/{id}`
+- Integration test `POST /expenses`
+- Integration test `PATCH /expenses/{id}`
+- Integration test `DELETE /expenses/{id}`
+- `Makefile` intro
+- Add `build` `vendor` `clear` & `test` commands
 - Section 12 recap
 
 ## Section 13 - Expenses REST API Auth
 
 - Section 13 overview
-- Introduction to router middleware
+- Intro to middleware
 - Create Auth middleware
-- Guard private routes with Auth middleware
-- Introduction to JWT (Overview)
-- Adjust Auth middleware to use JWT
-- Adjust all failing tests, after implementing Auth middleware
-- Testing all routes using Postman and Auth bearer token
-- Assignment (add auth middleware & tests for some private routes)
-- Assignment solution
+- Connect **Auth** middleware
+- Intro to **JWT** & **OAuth2** (Overview)
+- Intro to **Bearer** Token (HTTP headers)
+- Use JWT in Auth middleware
+- Create JWT test helper
+- Adjust failing tests
+- Create `POST /login`
+- Test `POST /login`
+- Create `GET /logout`
+- Test `GET /logout`
+- Create `GET /me`
+- Test `GET /me`
+- Integration test `POST /login`
+- Integration test `GET /logout`
+- Integration test `GET /me`
+- Test Auth middleware
+- Testing all routes with Postman
+- Future **OAuth2 & JWT** considerations
 - Section 13 recap
 
 ## Section 14 - Expenses REST API Session
 
 - Section 14 overview
-- HTTP session intro
-- Introduction to Redis
-- Intro to RegEx
+- Intro to HTTP session
+- Intro to Cookies
+- Create memory HTTP session
+- Intro `text/template` & `html/template`
+- Store HTTP session in cookie
+- Persistent (stateless) HTTP session (Design & Overview)
+- Intro to Redis (basic types & CLI commands - `set` `get`)
+- Redis & Go examples
+- Add HTTP session in Redis
+- Add HTTP session on login
+- Remove HTTP session on logout
 - Section 14 recap
 
 ## Section 15 - Package management
@@ -274,7 +299,9 @@ Estimated course time ~28 hours
 - Explaining packages in depth
 - Package management & go get
 - Go mod (vgo)
+- Intro to Dep
 - Migration to Go mod
+- Migrate Expenses REST API to Dep
 - Migrate Expenses REST API to Go modules
 - Section 15 recap
 - [Quiz](https://github.com/steevehook/udemy-go101/blob/master/section_15-package-management/quiz)
@@ -284,7 +311,7 @@ Estimated course time ~28 hours
 ## Section 16 - Concurrency
 
 - Section 16 overview
-- Concurrency is not Parallelism. 1 CPU concurrency vs multi CPU concurrency
+- Concurrency vs Parallelism
 - Channels
 - Buffered channels
 - Send only / receive only channels
@@ -332,6 +359,7 @@ Estimated course time ~28 hours
 - Intro to build tags
 - `$GOOS` & `$GOARCH`
 - Generate binaries checksum
+- Test binaries (OSX, Linux, Windows, Raspberry Pi)
 - Section 18 recap
 - [Quiz](https://github.com/steevehook/udemy-go101/blob/master/section_18-platform-specific-software/quiz)
 - [Assignment - Problem](https://github.com/steevehook/udemy-go101/blob/master/section_18-platform-specific-software/assignment)
