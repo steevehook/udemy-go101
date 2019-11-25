@@ -1,6 +1,6 @@
 # Section 8 Assignment
 
-## Problem
+## Instructions
 
 1. Create `HTTPError` custom type which has the following fields:
 
@@ -29,7 +29,7 @@ not make it to the final JSON
 
 3. Output couple of error to STDOUT in JSON format
 
-## Solution
+## Expectations
 
 ```
 ./assignment

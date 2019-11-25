@@ -14,7 +14,7 @@ Estimated course time ~28 hours
 - $GOPATH & directory structure
 - Hello World
 - Section 1 recap
-- Quiz
+- [Quiz](https://github.com/steevehook/udemy-go101/blob/master/section_1-introduction/quiz)
 
 ## Section 2 - Language Basics (I)
 
@@ -46,7 +46,7 @@ Estimated course time ~28 hours
 - Map implementation (Bucket example)
 - Zero values
 - Section 2 recap
-- Quiz
+- [Quiz](https://github.com/steevehook/udemy-go101/blob/master/section_2-language-basics-1/quiz)
 
 ## Section 3 - Language basics (II)
 
@@ -68,9 +68,9 @@ Estimated course time ~28 hours
 - Maps JSON
 - JSON Unmarshalling
 - Section 3 recap
-- Quiz
-- Assignment (Create the person custom type with 4 methods & output it to stdout in JSON format)
-- Assignment (Solution)
+- [Quiz](https://github.com/steevehook/udemy-go101/blob/master/section_2-language-basics-2/quiz)
+- [Assignment - Problem](https://github.com/steevehook/udemy-go101/blob/master/section_2-language-basics-2/assignment)
+- [Assignment - Solution](https://github.com/steevehook/udemy-go101/blob/master/section_2-language-basics-2/assignment)
 
 ## Section 4 - Notes CLI App
 
@@ -98,9 +98,9 @@ Estimated course time ~28 hours
 - Type assertion
 - Custom HTTP transport
 - Section 5 recap
-- Quiz
-- Assignment (Convert a piece of code to use interfaces)
-- Assignment Solution
+- [Quiz](https://github.com/steevehook/udemy-go101/blob/master/section_5-interfaces/quiz)
+- [Assignment - Problem](https://github.com/steevehook/udemy-go101/blob/master/section_5-interfaces/assignment)
+- [Assignment - Solution](https://github.com/steevehook/udemy-go101/blob/master/section_5-interfaces/assignment)
 
 ## Section 6 - Explore `net` & `net/http`
 
@@ -122,6 +122,9 @@ Estimated course time ~28 hours
 - Quiz
 - Assignment (Create an HTTP server with 4 endpoints)
 - Assignment (Solution)
+- [Quiz](https://github.com/steevehook/udemy-go101/blob/master/section_6-exploring-net-http/quiz)
+- [Assignment - Problem](https://github.com/steevehook/udemy-go101/blob/master/section_6-exploring-net-http/assignment)
+- [Assignment - Solution](https://github.com/steevehook/udemy-go101/blob/master/section_6-exploring-net-http/assignment)
 
 ## Section 7 - Notes CLI app improvements
 
@@ -146,25 +149,25 @@ Estimated course time ~28 hours
 - **defer**
 - **panic**
 - **recover**
-- Error types & values
+- Error types & Error values
 - Panic recovery middleware
 - Error checking & examples
 - Type assertion recap
 - Error handling good practices
 - `Go 1.13` error features
 - Section 8 recap
-- Quiz
-- [Assignment Problem](https://github.com/steevehook/udemy-go101/blob/master/section_8-errors/assignment)
-- [Assignment Solution](https://github.com/steevehook/udemy-go101/blob/master/section_8-errors/assignment)
+- [Quiz](https://github.com/steevehook/udemy-go101/blob/master/section_8-errors/quiz)
+- [Assignment - Problem](https://github.com/steevehook/udemy-go101/blob/master/section_8-errors/assignment)
+- [Assignment - Solution](https://github.com/steevehook/udemy-go101/blob/master/section_8-errors/assignment)
 
 ## Section 9 - Refactor Notes CLI app
 
 - Section 9 overview
 - Code smells & solutions
 - Intro to SOLID
-- Split into multiple files & packages
-- Get rid of global variables
-- Function decoupling & helpers
+- Code split (files & packages)
+- Avoid global vars
+- Decoupling & func helpers
 - Use `ReadWriteCloser` instead of `File`
 - Document exported symbols
 - Section 9 recap
@@ -186,6 +189,7 @@ Estimated course time ~28 hours
 - Unit & integration testing
 - Parallel testing
 - Benchmark testing
+- Test coverage script
 - Assignment (Test a piece of code with dependencies)
 - Assignment (Solution)
 - Section 10 recap
