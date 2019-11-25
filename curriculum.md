@@ -140,18 +140,22 @@ Estimated course time ~28 hours
 ## Section 8 - Errors
 
 - Section 8 overview
+- Apps & Errors design
 - Errors in Go. (val, err) pattern
 - Error interface & Custom errors
 - **defer**
 - **panic**
 - **recover**
+- Error types & values
 - Panic recovery middleware
 - Error checking & examples
 - Type assertion recap
 - Error handling good practices
-- Assignment (Problem)
-- Assignment (Solution)
+- `Go 1.13` error features
 - Section 8 recap
+- Quiz
+- [Assignment Problem](https://github.com/steevehook/udemy-go101/blob/master/section_8-errors/assignment)
+- [Assignment Solution](https://github.com/steevehook/udemy-go101/blob/master/section_8-errors/assignment)
 
 ## Section 9 - Refactor Notes CLI app
 
