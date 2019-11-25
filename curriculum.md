@@ -119,9 +119,6 @@ Estimated course time ~28 hours
 - Handler, HandlerFunc, Handle
 - HTTP client/server example
 - Section 6 recap
-- Quiz
-- Assignment (Create an HTTP server with 4 endpoints)
-- Assignment (Solution)
 - [Quiz](https://github.com/steevehook/udemy-go101/blob/master/section_6-exploring-net-http/quiz)
 - [Assignment - Problem](https://github.com/steevehook/udemy-go101/blob/master/section_6-exploring-net-http/assignment)
 - [Assignment - Solution](https://github.com/steevehook/udemy-go101/blob/master/section_6-exploring-net-http/assignment)
