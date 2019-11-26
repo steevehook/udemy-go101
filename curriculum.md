@@ -55,6 +55,7 @@ Estimated course time ~28 hours
 - Strucs
 - Structs - exported/unexported
 - Structs - field promotion
+- Empty structs
 - Functions
 - Function - multiple return (data, error)
 - Closures
@@ -196,7 +197,7 @@ Estimated course time ~28 hours
 - [Assignment - Problem](https://github.com/steevehook/udemy-go101/blob/master/section_10-testing/assignment)
 - [Assignment - Solution](https://github.com/steevehook/udemy-go101/blob/master/section_10-testing/assignment)
 
-## Section 11 - Testing Notes CLI app
+## Section 11 - Test Notes CLI app
 
 - Section 11 overview
 - Test **create**
@@ -314,21 +315,20 @@ Estimated course time ~28 hours
 - Concurrency vs Parallelism
 - Channels
 - Buffered channels
-- Send only / receive only channels
-- Concurrent functions. The `go` keyword
-- Concurrent functions facts
+- Send/Receive only channels
+- Concurrent func(s). The `go` keyword
+- Concurrent func(s) facts
 - for select
+- Deadlock
+- Race conditions & `-race` flag
 - wait groups
 - Mutexes
 - Atomics
-- Buffered vs unbuffered channels
+- Semaphore with channels
 - Concurrency patterns
-- Channels - FAN IN / FAN OUT
-- Common concurrency issues & race conditions
-- `-race` flag
-- Health check example (HTTP roundtripper)
-- Enhance Notes App to use multiple connections
-- Assignment
+- Channels - FAN IN/OUT
+- Health checker (HTTP round tripper)
+- Notes CLI app - Concurrency (Use multiple connections)
 - Section 16 recap
 - [Quiz](https://github.com/steevehook/udemy-go101/blob/master/section_16-concurrency/quiz)
 - [Assignment - Problem](https://github.com/steevehook/udemy-go101/blob/master/section_16-concurrency/assignment)
@@ -386,7 +386,8 @@ Estimated course time ~28 hours
 - Google Cloud
 - Heroku
 - Docker
-- Deploy "Real Time Chat" app
+- Deploy **Real Time Chat** app
+- Travis
 - Jenkins
 - Section 20 recap
 - [Quiz](https://github.com/steevehook/udemy-go101/blob/master/section_20-deploying-go-apps/quiz)

@@ -273,13 +273,15 @@ is `$GOPATH/src` where the source code lives.
 
 ### For more info check out:
 
-[How to write Go code](https://golang.org/doc/code.html)
+- [How to write Go code](https://golang.org/doc/code.html)
+- [GOPATH](https://github.com/golang/go/wiki/GOPATH)
+- [Dep](https://golang.github.io/dep/docs/introduction.html)
+- [Go Modules](https://github.com/golang/go/wiki/Modules#go-111-modules)
 
-[GOPATH](https://github.com/golang/go/wiki/GOPATH)
+[Back](https://github.com/steevehook/udemy-go101)
 
-[Dep](https://golang.github.io/dep/docs/introduction.html)
+---
 
-[Go Modules](https://github.com/golang/go/wiki/Modules#go-111-modules)
+Happy hacking gophers 🚀🚀🚀
 
-Back to
-[Go Basics](https://github.com/gophertuts/go-basics)
+<img src="https://github.com/steevehook/udemy-go101/raw/master/udemy-go101.svg?sanitize=true" width="150px"/>

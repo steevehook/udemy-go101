@@ -103,7 +103,13 @@ Displays a list of all available *Go commands*. Have fun and play
 around with them
 
 For more info about Go commands check out
-[Go Commands](https://golang.org/cmd/go/)
 
-Back to
-[Go Basics](https://github.com/gophertuts/go-basics)
+- [Go Commands](https://golang.org/cmd/go/)
+
+[Back](https://github.com/steevehook/udemy-go101)
+
+---
+
+Happy hacking gophers 🚀🚀🚀
+
+<img src="https://github.com/steevehook/udemy-go101/raw/master/udemy-go101.svg?sanitize=true" width="150px"/>
