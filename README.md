@@ -4,7 +4,7 @@
 
 ## Course overview
 
-- [section 1 - Introduction](https://github.com/steevehook/udemy-go101/blob/master/section_1-introduction)
+- [Section 1 - Introduction](https://github.com/steevehook/udemy-go101/blob/master/section_1-introduction)
 - [Section 2 - Language Basics (I)](https://github.com/steevehook/udemy-go101/blob/master/section_2-language-basics-1)
 - [Section 3 - Language Basics (II)](https://github.com/steevehook/udemy-go101/blob/master/section_3-language-basics-2)
 - [Section 4 - Note CLI app](https://github.com/steevehook/udemy-go101/blob/master/section_4-notes-cli-app)
