@@ -1,5 +1,7 @@
 # Section 19 - Debugging
 
+#### [Quiz](https://github.com/steevehook/udemy-go101/blob/master/section_19-debugging/quiz)
+
 [Back](https://github.com/steevehook/udemy-go101)
 
 ---

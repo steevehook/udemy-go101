@@ -1,5 +1,7 @@
 # Section 21 - Go best practices
 
+#### [Quiz](https://github.com/steevehook/udemy-go101/blob/master/section_21-go-best-practices/quiz)
+
 [Back](https://github.com/steevehook/udemy-go101)
 
 ---

@@ -1,5 +1,8 @@
 # Section 15 - Package management
 
+#### [Quiz](https://github.com/steevehook/udemy-go101/blob/master/section_15-package-management/quiz)
+#### [Assignment](https://github.com/steevehook/udemy-go101/blob/master/section_15-package-management/assignment)
+
 [Back](https://github.com/steevehook/udemy-go101)
 
 ---

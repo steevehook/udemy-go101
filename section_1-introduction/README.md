@@ -101,6 +101,8 @@ the [Downloads](https://golang.org/dl/) page
 - [Git for Windows](https://git-scm.com/download/win)
 - [Git for Mac](https://git-scm.com/download/mac)
 
+#### [Quiz](https://github.com/steevehook/udemy-go101/blob/master/section_1-introduction/quiz)
+
 [Back](https://github.com/steevehook/udemy-go101)
 
 ---
