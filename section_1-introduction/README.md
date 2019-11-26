@@ -94,6 +94,13 @@ or try their [EAP](https://www.jetbrains.com/go/nextversion/) versions
 For more info on Go distributions make sure to visit
 the [Downloads](https://golang.org/dl/) page
 
+#### Links
+
+- [Go distribution downloads](https://golang.org/dl/)
+- [Go runtime versions - XML](https://storage.googleapis.com/golang)
+- [Git for Windows](https://git-scm.com/download/win)
+- [Git for Mac](https://git-scm.com/download/mac)
+
 [Back](https://github.com/steevehook/udemy-go101)
 
 ---
