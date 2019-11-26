@@ -27,6 +27,12 @@ go version
 # Install the latest version of Go runtime
 brew install go
 
+# export necessary Go environment variables 
+echo -e "\
+export GOPATH=\$HOME/go\n
+export GOBIN=\$GOPATH/bin\n
+export PATH=\$PATH:/\$GOBIN\n" >> .bashrc
+
 # displays the version of Go runtime if installation was successful
 go version
 
