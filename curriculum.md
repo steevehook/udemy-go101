@@ -217,10 +217,11 @@ Estimated course time ~28 hours
 ## Section 12 - Expenses REST API
 
 - Intro to Expenses REST API (Overview + list all dependencies)
+- Install Expenses REST API deps
 - Intro to **client**/**server** architecture
 - Intro to REST (resources & verbs)
 - Create a small REST API (with 2 endpoints)
-- Intro to Databases. SQL vs NoSQL
+- Intro to Databases. **SQL** vs **NoSQL**
 - Intro to containerization
 - Docker basic commands (`run` `ps` `pull` `exec` `logs` `rm` `build`)
 - Intro to MariaDB & SQL
@@ -235,37 +236,42 @@ Estimated course time ~28 hours
 - Intro to `julienschmidt/httprouter`
 - Create the app router (with endpoint placeholders)
 - Create `GET /expenses`
-- Test `GET /expenses`
 - Intro to Postman. Test 1st endpoint (JSON Postman collection with all endpoints)
 - Create `GET /expenses/{id}`
-- Test `GET /expenses/{id}`
 - Create `POST /expenses`
-- Test `POST /expenses`
 - Create `PATCH /expenses/{id}`
-- Test `PATCH /expenses/{id}`
 - Create `DELETE /expenses/{id}`
-- Test `DELETE /expenses/{id}`
 - Create **Expenses** service
-- Test **Expenses** service
+- Create `notes` schema
 - Intro to **Repository** pattern
-- Create notes schema
 - Create **Notes** repository
-- Intro to `DATA-DOG/go-sqlmock`
-- Test Notes repository
 - Intro to `spf13/viper`
 - Read from config file
-- Test the config file
-- Intro to `gopkg.in/h2non/gock.v1`
-- Integration test `GET /expenses`
-- Integration test `GET /expenses/{id}`
-- Integration test `POST /expenses`
-- Integration test `PATCH /expenses/{id}`
-- Integration test `DELETE /expenses/{id}`
 - `Makefile` intro
 - Add `build` `vendor` `clear` & `test` commands
 - Section 12 recap
 
 ## Section 13 - Test Expenses REST API
+
+- Section 13 overview
+- Create service mocks
+- Test `GET /expenses`
+- Test `GET /expenses/{id}`
+- Test `POST /expenses`
+- Test `PATCH /expenses/{id}`
+- Test `DELETE /expenses/{id}`
+- Create repository mocks
+- Test **Expenses** service
+- Intro to `DATA-DOG/go-sqlmock`
+- Test **Notes** repository
+- Test `config` package
+- Create app background startup
+- Integration test `GET /expenses`
+- Integration test `GET /expenses/{id}`
+- Integration test `POST /expenses`
+- Integration test `PATCH /expenses/{id}`
+- Integration test `DELETE /expenses/{id}`
+- Section 13 recap
 
 ## Section 14 - Expenses REST API Auth
 
@@ -352,7 +358,9 @@ Estimated course time ~28 hours
 - Semaphore with channels
 - Concurrency patterns
 - Channels - FAN IN/OUT
-- Health checker (HTTP round tripper)
+- **Health Checker** example (HTTP round tripper)
+- Intro to `gopkg.in/h2non/gock.v1`
+- Test **Health Checker**
 - Notes CLI app - Concurrency (Use multiple connections)
 - Section 17 recap
 - [Quiz](https://github.com/steevehook/udemy-go101/blob/master/section_16-concurrency/quiz)
