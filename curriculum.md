@@ -55,7 +55,7 @@ Estimated course time ~28 hours
 - Strucs
 - Structs - exported/unexported
 - Structs - field promotion
-- Empty structs
+- Empty struct
 - Functions
 - Function - multiple return (data, error)
 - Closures
@@ -206,7 +206,11 @@ Estimated course time ~28 hours
 - Test **shutdown**
 - Test **backup**
 - Test MemCache
-- Integration test Notes app
+- Integration test **create**
+- Integration test **read**
+- Integration test **delete**
+- Integration test **shutdown**
+- Integration test **backup**
 - Section 11 recap
 
 ## Section 12 - Expenses REST API
