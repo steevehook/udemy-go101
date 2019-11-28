@@ -6,7 +6,12 @@
 
 ##### `Answer`: Yes
 
+`Explanation`: Because Go source code is UTF8 encoded
+
 **2)** Is Go a garbage collected language?
+
+`Explanation`: Open up the language [docs](https://golang.org/doc/)
+and convince yourself
 
 ##### `Answer`: Yes
 
