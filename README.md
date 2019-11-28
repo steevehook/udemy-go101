@@ -1,6 +1,12 @@
 # udemy-go101
 
-## Go Programming Language 101
+## Udemy - Go 101
+
+<img src="https://github.com/steevehook/udemy-go101/raw/master/udemy-go101-cover.jpg?sanitize=true" width="100%"/>
+
+[Enroll Now](https://www.google.com)
+
+4-6 compelling images about the course HERE
 
 ## Course overview
 
@@ -29,14 +35,6 @@
 - [Farewell & Resources](https://github.com/steevehook/udemy-go101/blob/master/farewell-and-resources)
 
 For more info on the course check out the [Curriculum](https://github.com/steevehook/udemy-go101/blob/master/curriculum.md)
-
-### Udemy course
-
-<img src="https://github.com/steevehook/udemy-go101/raw/master/udemy-go101-cover.jpg?sanitize=true" width="100%"/>
-
-[Enroll Now](https://www.google.com)
-
-4-6 compelling images about the course HERE
 
 
 ### More Resources
