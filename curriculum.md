@@ -131,8 +131,8 @@ Estimated course time ~28 hours
 ## Section 7 - Notes CLI app improvements
 
 - Section 7 overview
-- Create a MemCache DB (Set & Get -> map[uuid]Note)
-- Connect MemCache to Notes (create|read|delete without backup)
+- Create a MemCache DB (`Get` & `Set` -> `map[uuid]Note`)
+- Connect MemCache to Notes (`create` `read` `delete` without backup)
 - Intro to mutexes (Overview & examples)
 - Add mutex to Get and Set
 - Background backup (once 10s)
@@ -216,25 +216,26 @@ Estimated course time ~28 hours
 ## Section 12 - Expenses REST API
 
 - Intro to Expenses REST API (Overview)
-- Intro to **client** / **server** architecture
-- Intro to REST (resources & verbs example)
+- Intro to **client**/**server** architecture
+- Intro to REST (resources & verbs)
 - Small REST API (with 2 endpoints)
 - Intro to Databases. SQL vs NoSQL
 - Intro to containerization
-- Intro to Docker - Basic commands (`run` `ps` `pull` `exec` `logs` `rm` `build`)
+- Docker basic commands (`run` `ps` `pull` `exec` `logs` `rm` `build`)
 - Intro to MariaDB & SQL
 - Basic MariaDB CLI commands (CRUD)
 - MariaDB Go example
-- Docker MariaDB tinkering
-- Intro to ORM (Object Relational Mapping)
-- ORM vs DAL (Data Access Layer)
+- Intro to `ORM` (Object Relational Mapping)
+- `ORM` vs `DAL` (Data Access Layer)
 - App structure & dependencies
-- MVC overview
-- Middleware/Controller/Service/Repo overview
-- CRUD & API endpoints overview
+- `MVC` overview (Model View Controller)
+- **Middleware**/**Controller**/**Service**/**Repo** overview
+- `CRUD` & API endpoints overview (**Create** **Read** **Update** **Delete**)
+- Intro to `julienschmidt/httprouter`
+- Create the app router (with endpoint placeholders)
 - Create `GET /expenses`
 - Test `GET /expenses`
-- Intro to Postman. Test 1st endpoint (Share Postman collection)
+- Intro to Postman. Test 1st endpoint (JSON Postman collection with all endpoints)
 - Create `GET /expenses/{id}`
 - Test `GET /expenses/{id}`
 - Create `POST /expenses`
@@ -243,11 +244,11 @@ Estimated course time ~28 hours
 - Test `PATCH /expenses/{id}`
 - Create `DELETE /expenses/{id}`
 - Test `DELETE /expenses/{id}`
-- Database layer. Repository pattern
-- Notes repository
+- Intro to **Repository** pattern
+- Create **Notes** repository
 - Test Notes repository
 - Read from config file
-- Testing the config file
+- Test the config file
 - Integration test `GET /expenses`
 - Integration test `GET /expenses/{id}`
 - Integration test `POST /expenses`
@@ -262,11 +263,15 @@ Estimated course time ~28 hours
 - Section 13 overview
 - Intro to middleware
 - Create Auth middleware
+- Intro to `justinas/alice`
+- Create the middleware chain
 - Connect **Auth** middleware
+- Connect **Panic** middleware
 - Intro to **JWT** & **OAuth2** (Overview)
 - Intro to **Bearer** Token (HTTP headers)
-- Use JWT in Auth middleware
-- Create JWT test helper
+- Use **JWT** in Auth middleware
+- Create **JWT** test helper
+- Test Auth middleware
 - Adjust failing tests
 - Create `POST /login`
 - Test `POST /login`
@@ -277,25 +282,31 @@ Estimated course time ~28 hours
 - Integration test `POST /login`
 - Integration test `GET /logout`
 - Integration test `GET /me`
-- Test Auth middleware
-- Testing all routes with Postman
-- Future **OAuth2 & JWT** considerations
+- Test all routes with Postman
+- Future **OAuth2** & **JWT** considerations
 - Section 13 recap
 
 ## Section 14 - Expenses REST API Session
 
 - Section 14 overview
-- Intro to HTTP session
-- Intro to Cookies
-- Create memory HTTP session
+- Intro to **HTTP** session
+- Intro to **Cookies**
+- Create in-memory HTTP session
 - Intro `text/template` & `html/template`
 - Store HTTP session in cookie
 - Persistent (stateless) HTTP session (Design & Overview)
-- Intro to Redis (basic types & CLI commands - `set` `get`)
-- Redis & Go examples
-- Add HTTP session in Redis
-- Add HTTP session on login
-- Remove HTTP session on logout
+- Intro to Redis (basic types & CLI commands - `GET`, `SET`, `HGET`, `HGETALL`, `HSET`, `HMSET`)
+- Redis & Go example
+- Create **Session** repository
+- Create **AddSession**
+- Test **AddSession**
+- Create **DeleteSession**
+- Test **DeleteSession**
+- **AddSession** on login
+- **DeleteSession** on logout
+- Adjust integration tests for `POST /login`
+- Adjust integration tests for `GET /logout`
+- Test auth routes with Postman
 - Section 14 recap
 
 ## Section 15 - Package management
