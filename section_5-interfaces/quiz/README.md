@@ -1,6 +1,6 @@
 # Section 5 Quiz
 
-[Back](https://github.com/steevehook/udemy-go101)
+[Back](https://github.com/steevehook/udemy-go101/blob/master/section_5-interfaces)
 
 ---
 

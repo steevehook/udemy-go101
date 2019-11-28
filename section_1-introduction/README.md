@@ -112,10 +112,13 @@ make sure to at least have a look:
 - [Go Lint](https://github.com/golang/lint)
 - [Go Imports](https://godoc.org/golang.org/x/tools/cmd/goimports)
 
-#### [Installation](https://github.com/steevehook/udemy-go101/blob/master/section_1-introduction/installation.md)
-#### [Git Basics](https://github.com/steevehook/udemy-go101/blob/master/section_1-introduction/git-basics.md)
-#### [Go basic commands](https://github.com/steevehook/udemy-go101/blob/master/section_1-introduction/go-commands.md)
-#### [Quiz](https://github.com/steevehook/udemy-go101/blob/master/section_1-introduction/quiz)
+#### Topics:
+
+- [Installation](https://github.com/steevehook/udemy-go101/blob/master/section_1-introduction/installation.md)
+- [Git Basics](https://github.com/steevehook/udemy-go101/blob/master/section_1-introduction/git-basics.md)
+- [Go basic commands](https://github.com/steevehook/udemy-go101/blob/master/section_1-introduction/go-commands.md)
+- [Hello World](https://github.com/steevehook/udemy-go101/blob/master/section_1-introduction/hello-world)
+- [Quiz](https://github.com/steevehook/udemy-go101/blob/master/section_1-introduction/quiz)
 
 [Back](https://github.com/steevehook/udemy-go101)
 

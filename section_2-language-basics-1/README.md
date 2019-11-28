@@ -1,6 +1,8 @@
 # Section 2 - Language Basics (I)
 
-#### [Quiz](https://github.com/steevehook/udemy-go101/blob/master/section_2-language-basics-1/quiz)
+#### Topics:
+
+- [Quiz](https://github.com/steevehook/udemy-go101/blob/master/section_2-language-basics-1/quiz)
 
 [Back](https://github.com/steevehook/udemy-go101)
 

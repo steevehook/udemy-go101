@@ -1,6 +1,6 @@
 # Section 3 Quiz
 
-[Back](https://github.com/steevehook/udemy-go101)
+[Back](https://github.com/steevehook/udemy-go101/blob/master/section_3-language-basics-2)
 
 ---
 

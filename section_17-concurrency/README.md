@@ -1,7 +1,9 @@
 # Section 17 - Concurrency
 
-#### [Quiz](https://github.com/steevehook/udemy-go101/blob/master/section_17-concurrency/quiz)
-#### [Assignment](https://github.com/steevehook/udemy-go101/blob/master/section_17-concurrency/assignment)
+#### Topics:
+
+- [Quiz](https://github.com/steevehook/udemy-go101/blob/master/section_17-concurrency/quiz)
+- [Assignment](https://github.com/steevehook/udemy-go101/blob/master/section_17-concurrency/assignment)
 
 [Back](https://github.com/steevehook/udemy-go101)
 

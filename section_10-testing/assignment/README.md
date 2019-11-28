@@ -6,7 +6,7 @@ Test a piece of code with dependencies
 
 ## Expectations
 
-[Back](https://github.com/steevehook/udemy-go101)
+[Back](https://github.com/steevehook/udemy-go101/blob/master/section_10-testing)
 
 ---
 

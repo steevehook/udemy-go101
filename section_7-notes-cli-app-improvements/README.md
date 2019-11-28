@@ -1,5 +1,7 @@
 # Section 7 - Notes CLI app improvements
 
+#### Topics:
+
 [Back](https://github.com/steevehook/udemy-go101)
 
 ---

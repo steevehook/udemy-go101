@@ -1,6 +1,6 @@
 # Section 21 Quiz
 
-[Back](https://github.com/steevehook/udemy-go101)
+[Back](https://github.com/steevehook/udemy-go101/blob/master/section_21-deploying-go-apps)
 
 ---
 

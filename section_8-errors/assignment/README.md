@@ -49,7 +49,7 @@ not make it to the final JSON
 }
 ```
 
-[Back](https://github.com/steevehook/udemy-go101)
+[Back](https://github.com/steevehook/udemy-go101/blob/master/section_8-errors)
 
 ---
 

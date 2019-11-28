@@ -1,6 +1,6 @@
 # Section 10 Quiz
 
-[Back](https://github.com/steevehook/udemy-go101)
+[Back](https://github.com/steevehook/udemy-go101/blob/master/section_10-testing)
 
 ---
 

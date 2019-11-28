@@ -6,7 +6,7 @@ Create the person custom type with 4 methods & output it to stdout in JSON forma
 
 ## Expectations
 
-[Back](https://github.com/steevehook/udemy-go101)
+[Back](https://github.com/steevehook/udemy-go101/blob/master/section_3-language-basics-2)
 
 ---
 

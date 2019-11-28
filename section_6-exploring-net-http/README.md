@@ -1,7 +1,9 @@
 # Section 6 - Exploring `net` & `net/http`
 
-#### [Quiz](https://github.com/steevehook/udemy-go101/blob/master/section_6-exploring-net-http/quiz)
-#### [Assignment](https://github.com/steevehook/udemy-go101/blob/master/section_6-exploring-net-http/assignment)
+#### Topics:
+
+- [Quiz](https://github.com/steevehook/udemy-go101/blob/master/section_6-exploring-net-http/quiz)
+- [Assignment](https://github.com/steevehook/udemy-go101/blob/master/section_6-exploring-net-http/assignment)
 
 [Back](https://github.com/steevehook/udemy-go101)
 

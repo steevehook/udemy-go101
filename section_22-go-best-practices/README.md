@@ -1,6 +1,8 @@
 # Section 22 - Go best practices
 
-#### [Quiz](https://github.com/steevehook/udemy-go101/blob/master/section_22-go-best-practices/quiz)
+#### Topics:
+
+- [Quiz](https://github.com/steevehook/udemy-go101/blob/master/section_22-go-best-practices/quiz)
 
 [Back](https://github.com/steevehook/udemy-go101)
 

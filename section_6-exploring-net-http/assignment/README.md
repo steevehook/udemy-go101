@@ -6,7 +6,7 @@ Create an HTTP server with 4 endpoints
 
 ## Expectations
 
-[Back](https://github.com/steevehook/udemy-go101)
+[Back](https://github.com/steevehook/udemy-go101/blob/master/section_6-exploring-net-http)
 
 ---
 

@@ -1,7 +1,9 @@
 # Section 10 - Testing
 
-#### [Quiz](https://github.com/steevehook/udemy-go101/blob/master/section_10-testing/quiz)
-#### [Assignment](https://github.com/steevehook/udemy-go101/blob/master/section_10-testing/assignment)
+#### Topics:
+
+- [Quiz](https://github.com/steevehook/udemy-go101/blob/master/section_10-testing/quiz)
+- [Assignment](https://github.com/steevehook/udemy-go101/blob/master/section_10-testing/assignment)
 
 [Back](https://github.com/steevehook/udemy-go101)
 

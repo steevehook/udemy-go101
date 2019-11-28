@@ -1,6 +1,8 @@
 # Section 20 - Debugging
 
-#### [Quiz](https://github.com/steevehook/udemy-go101/blob/master/section_20-debugging/quiz)
+#### Topics:
+
+- [Quiz](https://github.com/steevehook/udemy-go101/blob/master/section_20-debugging/quiz)
 
 [Back](https://github.com/steevehook/udemy-go101)
 
