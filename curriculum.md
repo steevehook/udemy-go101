@@ -137,7 +137,8 @@ Estimated course time ~28 hours
 - Add mutex to Get and Set
 - Background backup (once 10s)
 - Improved backup - overview (add slice & uuid)
-- Intro to UUID
+- Intro to UUID (`UUID.V4` `UUID.V5`)
+- Intro to `satori/go.uuid`
 - Add UUID to MemCache
 - Improve backup with `[]UUID`
 - Section 7 recap
@@ -215,10 +216,10 @@ Estimated course time ~28 hours
 
 ## Section 12 - Expenses REST API
 
-- Intro to Expenses REST API (Overview)
+- Intro to Expenses REST API (Overview + list all dependencies)
 - Intro to **client**/**server** architecture
 - Intro to REST (resources & verbs)
-- Small REST API (with 2 endpoints)
+- Create a small REST API (with 2 endpoints)
 - Intro to Databases. SQL vs NoSQL
 - Intro to containerization
 - Docker basic commands (`run` `ps` `pull` `exec` `logs` `rm` `build`)
@@ -227,7 +228,7 @@ Estimated course time ~28 hours
 - MariaDB Go example
 - Intro to `ORM` (Object Relational Mapping)
 - `ORM` vs `DAL` (Data Access Layer)
-- App structure & dependencies
+- Intro to `upper.io/db.v3`
 - `MVC` overview (Model View Controller)
 - **Middleware**/**Controller**/**Service**/**Repo** overview
 - `CRUD` & API endpoints overview (**Create** **Read** **Update** **Delete**)
@@ -245,10 +246,14 @@ Estimated course time ~28 hours
 - Create `DELETE /expenses/{id}`
 - Test `DELETE /expenses/{id}`
 - Intro to **Repository** pattern
+- Create notes schema
 - Create **Notes** repository
+- Intro to `DATA-DOG/go-sqlmock`
 - Test Notes repository
+- Intro to `spf13/viper`
 - Read from config file
 - Test the config file
+- Intro to `gopkg.in/h2non/gock.v1`
 - Integration test `GET /expenses`
 - Integration test `GET /expenses/{id}`
 - Integration test `POST /expenses`
