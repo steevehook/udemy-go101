@@ -94,6 +94,40 @@ or try their [EAP](https://www.jetbrains.com/go/nextversion/) versions
 For more info on Go distributions make sure to visit
 the [Downloads](https://golang.org/dl/) page
 
+### Other Go tools
+
+You can also install other `Go` tools which will help you have a more productive development process
+
+- [Go Tools](https://github.com/golang/tools)
+- [Go Lint](https://github.com/golang/lint)
+- [Go Imports](https://godoc.org/golang.org/x/tools/cmd/goimports)
+
+##### Go Tools
+
+```bash
+go get -u golang.org/x/tools/...
+```
+
+##### Go Lint
+
+```bash
+go get -u golang.org/x/lint/golint
+```
+
+##### Go Imports
+
+```bash
+go get -u golang.org/x/tools/cmd/goimports
+```
+
+##### Daily routine
+
+- Format your entire code recursively using
+`go fmt ./...`
+
+- Lint your entire code recursively using
+`golint ./...` 
+
 #### Links
 
 - [Go distribution downloads](https://golang.org/dl/)
