@@ -302,6 +302,7 @@ Estimated course time ~28 hours
 - Persistent (stateless) HTTP session (Design & Overview)
 - Intro to Redis (basic types & CLI commands - `GET`, `SET`, `HGET`, `HGETALL`, `HSET`, `HMSET`)
 - Redis & Go example
+- Intro to `docker-compose`
 - Create **Session** repository
 - Create **AddSession**
 - Test **AddSession**
@@ -388,12 +389,12 @@ Estimated course time ~28 hours
 ## Section 19 - Debugging
 
 - Section 19 overview
-- Delve
+- Intro to **Delve**
 - Memory Footprint
 - CPU usage
-- `runtime/trace` & `x/net/trace`
-- `pprof`
-- `ldflags`
+- Intro to `runtime/trace` & `x/net/trace`
+- Intro to `pprof`
+- Intro to `ldflags`
 - Section 19 recap
 - [Quiz](https://github.com/steevehook/udemy-go101/blob/master/section_19-debugging/quiz)
 
@@ -401,14 +402,15 @@ Estimated course time ~28 hours
 
 - Section 20 overview
 - Introduction to SystemD
-- DigitalOcean
-- Amazon
-- Google Cloud
-- Heroku
-- Docker
-- Deploy **Real Time Chat** app
-- Travis
-- Jenkins
+- Deploy to DigitalOcean
+- Deploy to Amazon
+- Deploy to Google Cloud
+- Deploy to Heroku
+- Go custom Docker image
+- Add docker image to `docker-compose.yaml`
+- Deploy **Real Time Chat** to Amazon
+- Add Travis
+- Into to Jenkins
 - Section 20 recap
 - [Quiz](https://github.com/steevehook/udemy-go101/blob/master/section_20-deploying-go-apps/quiz)
 - [Assignment - Problem](https://github.com/steevehook/udemy-go101/blob/master/section_20-deploying-go-apps/assignment)
