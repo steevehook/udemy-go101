@@ -19,9 +19,15 @@ and convince yourself
 
 ##### `Answer`: No
 
+`Explanation`: The `init` function cannot be called.
+It gets called automatically by the Go runtime.
+Calling it will result in a reference error
+
 **4)** What is the only thing a Go file requires?
 
 ##### `Answer`: **package** declaration
+
+`Explanation`: Every file in Go must *belong* to a *package*
 
 **5)** Will this piece of code compile?
 
