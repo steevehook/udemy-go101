@@ -115,6 +115,7 @@ make sure to at least have a look:
 #### Topics:
 
 - [Installation](https://github.com/steevehook/udemy-go101/blob/master/section_1-introduction/installation.md)
+- [Go's Philosophy & Authors](https://github.com/steevehook/udemy-go101/blob/master/section_1-introduction/go-philosophy.md)
 - [Git Basics](https://github.com/steevehook/udemy-go101/blob/master/section_1-introduction/git-basics.md)
 - [Go basic commands](https://github.com/steevehook/udemy-go101/blob/master/section_1-introduction/go-commands.md)
 - [Hello World](https://github.com/steevehook/udemy-go101/blob/master/section_1-introduction/hello-world)

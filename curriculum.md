@@ -25,6 +25,7 @@ Estimated course time ~28 hours
 - Executable & non-executable packages
 - Basic types
 - **const** & **var** declarations
+- `_` blank identifier
 - Reserved keywords & operators
 - Aggregate types overview
 - Arrays
