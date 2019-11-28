@@ -60,7 +60,7 @@ const x = 10
 `Explanation`: Because the order of *constants*, *variables*, *types*
 or *functions* does not matter
 
-[Back](https://github.com/steevehook/udemy-go101)
+[Back](https://github.com/steevehook/udemy-go101/blob/master/section_1-introduction)
 
 ---
 
