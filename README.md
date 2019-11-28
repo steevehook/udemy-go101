@@ -1,6 +1,4 @@
-# udemy-go101
-
-## Udemy - Go 101
+# Udemy - Go 101
 
 <img src="https://github.com/steevehook/udemy-go101/raw/master/udemy-go101-cover.jpg?sanitize=true" width="100%"/>
 
