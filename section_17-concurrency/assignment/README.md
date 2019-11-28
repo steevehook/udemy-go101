@@ -1,8 +1,6 @@
-# Section 20 Assignment
+# Section 17 Assignment
 
 ## Instructions
-
-Deploy Expenses REST API
 
 ## Expectations
 

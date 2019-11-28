@@ -1,4 +1,4 @@
-# Section 13 - Expenses REST API Auth
+# Section 18 - Real Time Chat app
 
 [Back](https://github.com/steevehook/udemy-go101)
 

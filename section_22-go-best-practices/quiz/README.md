@@ -1,4 +1,4 @@
-# Section 15 Quiz
+# Section 22 Quiz
 
 [Back](https://github.com/steevehook/udemy-go101)
 

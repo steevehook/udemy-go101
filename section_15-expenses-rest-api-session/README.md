@@ -1,8 +1,4 @@
-# Section 15 Assignment
-
-## Instructions
-
-## Expectations
+# Section 15 - Expenses REST API session
 
 [Back](https://github.com/steevehook/udemy-go101)
 

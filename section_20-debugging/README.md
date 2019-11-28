@@ -1,8 +1,6 @@
-# Section 18 Assignment
+# Section 20 - Debugging
 
-## Instructions
-
-## Expectations
+#### [Quiz](https://github.com/steevehook/udemy-go101/blob/master/section_20-debugging/quiz)
 
 [Back](https://github.com/steevehook/udemy-go101)
 

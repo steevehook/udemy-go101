@@ -1,4 +1,4 @@
-# Section 14 - Expenses REST API session
+# Section 17 Quiz
 
 [Back](https://github.com/steevehook/udemy-go101)
 

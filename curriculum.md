@@ -230,7 +230,7 @@ Estimated course time ~28 hours
 - `ORM` vs `DAL` (Data Access Layer)
 - Intro to `upper.io/db.v3`
 - `MVC` overview (Model View Controller)
-- **Middleware**/**Controller**/**Service**/**Repo** overview
+- `MCSR` overview (**Middleware**/**Controller**/**Service**/**Repo**)
 - `CRUD` & API endpoints overview (**Create** **Read** **Update** **Delete**)
 - Intro to `julienschmidt/httprouter`
 - Create the app router (with endpoint placeholders)
@@ -245,6 +245,8 @@ Estimated course time ~28 hours
 - Test `PATCH /expenses/{id}`
 - Create `DELETE /expenses/{id}`
 - Test `DELETE /expenses/{id}`
+- Create **Expenses** service
+- Test **Expenses** service
 - Intro to **Repository** pattern
 - Create notes schema
 - Create **Notes** repository
@@ -263,9 +265,11 @@ Estimated course time ~28 hours
 - Add `build` `vendor` `clear` & `test` commands
 - Section 12 recap
 
-## Section 13 - Expenses REST API Auth
+## Section 13 - Test Expenses REST API
 
-- Section 13 overview
+## Section 14 - Expenses REST API Auth
+
+- Section 14 overview
 - Intro to middleware
 - Create Auth middleware
 - Intro to `justinas/alice`
@@ -289,11 +293,11 @@ Estimated course time ~28 hours
 - Integration test `GET /me`
 - Test all routes with Postman
 - Future **OAuth2** & **JWT** considerations
-- Section 13 recap
+- Section 14 recap
 
-## Section 14 - Expenses REST API Session
+## Section 15 - Expenses REST API Session
 
-- Section 14 overview
+- Section 15 overview
 - Intro to **HTTP** session
 - Intro to **Cookies**
 - Create in-memory HTTP session
@@ -313,11 +317,11 @@ Estimated course time ~28 hours
 - Adjust integration tests for `POST /login`
 - Adjust integration tests for `GET /logout`
 - Test auth routes with Postman
-- Section 14 recap
+- Section 15 recap
 
-## Section 15 - Package management
+## Section 16 - Package management
 
-- Section 15 overview
+- Section 16 overview
 - Explaining packages in depth
 - Package management & go get
 - Go mod (vgo)
@@ -325,14 +329,14 @@ Estimated course time ~28 hours
 - Migration to Go mod
 - Migrate Expenses REST API to Dep
 - Migrate Expenses REST API to Go modules
-- Section 15 recap
+- Section 16 recap
 - [Quiz](https://github.com/steevehook/udemy-go101/blob/master/section_15-package-management/quiz)
 - [Assignment - Problem](https://github.com/steevehook/udemy-go101/blob/master/section_15-package-management/assignment)
 - [Assignment - Solution](https://github.com/steevehook/udemy-go101/blob/master/section_15-package-management/assignment)
 
-## Section 16 - Concurrency
+## Section 17 - Concurrency
 
-- Section 16 overview
+- Section 17 overview
 - Concurrency vs Parallelism
 - Channels
 - Buffered channels
@@ -350,12 +354,12 @@ Estimated course time ~28 hours
 - Channels - FAN IN/OUT
 - Health checker (HTTP round tripper)
 - Notes CLI app - Concurrency (Use multiple connections)
-- Section 16 recap
+- Section 17 recap
 - [Quiz](https://github.com/steevehook/udemy-go101/blob/master/section_16-concurrency/quiz)
 - [Assignment - Problem](https://github.com/steevehook/udemy-go101/blob/master/section_16-concurrency/assignment)
 - [Assignment - Solution](https://github.com/steevehook/udemy-go101/blob/master/section_16-concurrency/assignment)
 
-## Section 17 - Real Time Chat
+## Section 18 - Real Time Chat
 
 - Small overview of the chat app
 - Introduction to web sockets
@@ -371,36 +375,36 @@ Estimated course time ~28 hours
 - Create **Messages** repository
 - Connect the **Server** with **Messages** repository
 - Improvements (Test the application)
-- Section 17 recap
+- Section 18 recap
 
-## Section 18 - Platform Specific Software
+## Section 19 - Platform Specific Software
 
-- Section 18 overview
+- Section 19 overview
 - Intro to Go special files
 - Intro to build tags
 - `$GOOS` & `$GOARCH`
 - Generate binaries checksum
 - Test binaries (OSX, Linux, Windows, Raspberry Pi)
-- Section 18 recap
+- Section 19 recap
 - [Quiz](https://github.com/steevehook/udemy-go101/blob/master/section_18-platform-specific-software/quiz)
 - [Assignment - Problem](https://github.com/steevehook/udemy-go101/blob/master/section_18-platform-specific-software/assignment)
 - [Assignment - Solution](https://github.com/steevehook/udemy-go101/blob/master/section_18-platform-specific-software/assignment)
 
-## Section 19 - Debugging
+## Section 20 - Debugging
 
-- Section 19 overview
+- Section 20 overview
 - Intro to **Delve**
 - Memory Footprint
 - CPU usage
 - Intro to `runtime/trace` & `x/net/trace`
 - Intro to `pprof`
 - Intro to `ldflags`
-- Section 19 recap
+- Section 20 recap
 - [Quiz](https://github.com/steevehook/udemy-go101/blob/master/section_19-debugging/quiz)
 
-## Section 20 - Deploying Go apps
+## Section 21 - Deploying Go apps
 
-- Section 20 overview
+- Section 21 overview
 - Introduction to SystemD
 - Deploy to DigitalOcean
 - Deploy to Amazon
@@ -411,14 +415,14 @@ Estimated course time ~28 hours
 - Deploy **Real Time Chat** to Amazon
 - Add Travis
 - Into to Jenkins
-- Section 20 recap
+- Section 21 recap
 - [Quiz](https://github.com/steevehook/udemy-go101/blob/master/section_20-deploying-go-apps/quiz)
 - [Assignment - Problem](https://github.com/steevehook/udemy-go101/blob/master/section_20-deploying-go-apps/assignment)
 - [Assignment - Solution](https://github.com/steevehook/udemy-go101/blob/master/section_20-deploying-go-apps/assignment)
 
-## Section 21 - Go best practices
+## Section 22 - Go best practices
 
-- Section 21 overview
+- Section 22 overview
 - CodeReviewComments
 - Write docs
 - Better copy paste than write wrong abstraction
@@ -430,7 +434,7 @@ Estimated course time ~28 hours
 - Use a logger
 - Always check for race conditions
 - Splitting packages/files
-- Section 21 recap
+- Section 22 recap
 - [Quiz](https://github.com/steevehook/udemy-go101/blob/master/section_21-go-best-practices/quiz)
 
 ## Farewell & Resources

@@ -1,6 +1,10 @@
-# Section 19 - Debugging
+# Section 21 Assignment
 
-#### [Quiz](https://github.com/steevehook/udemy-go101/blob/master/section_19-debugging/quiz)
+## Instructions
+
+Deploy Expenses REST API
+
+## Expectations
 
 [Back](https://github.com/steevehook/udemy-go101)
 
