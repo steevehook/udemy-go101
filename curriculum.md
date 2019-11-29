@@ -13,7 +13,7 @@ Estimated course time ~28 hours
 - Git basics & Github (clone udemy-go101, repo structure)
 - `$GOPATH` & directory structure
 - Hello World
-- Basic Go commands (`run` `build` `install` `get` `test`)
+- Basic Go commands (`run` `build` `get` `install` `test`, `fmt`)
 - Binary size. Go vs C
 - Section 1 recap
 - [Quiz](https://github.com/steevehook/udemy-go101/blob/master/section_1-introduction/quiz)

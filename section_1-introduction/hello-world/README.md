@@ -37,7 +37,11 @@ will not have the same effect, it will act as a regular function called `main`
 
 ---
 Note: Trying to execute a file or multiple files which don't belong to
-the `main` package will result in an error
+the `main` package will result in an error.
+
+Also trying to execute a file or multiple files which belong to the
+`main` package but do not have the `func main` declaration in at least
+one of the files will also result in an error.
 
 ### Order of evaluation
 
