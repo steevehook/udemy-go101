@@ -14,6 +14,7 @@ Estimated course time ~28 hours
 - `$GOPATH` & directory structure
 - Hello World
 - Basic Go commands (`run` `build` `install` `get` `test`)
+- Binary size. Go vs C
 - Section 1 recap
 - [Quiz](https://github.com/steevehook/udemy-go101/blob/master/section_1-introduction/quiz)
 

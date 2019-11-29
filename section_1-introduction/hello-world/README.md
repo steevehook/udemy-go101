@@ -2,7 +2,7 @@
 
 ## Hello World
 
-Here's the link to the [code](https://github.com/steevehook/udemy-go101/blob/master/section_1-introduction/hello-world/main.go)
+Here's the link to the **Hello World** [code](https://github.com/steevehook/udemy-go101/blob/master/section_1-introduction/hello-world/main.go)
 
 ### File components
 

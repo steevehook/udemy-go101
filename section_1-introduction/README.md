@@ -119,6 +119,7 @@ make sure to at least have a look:
 - [Git Basics](https://github.com/steevehook/udemy-go101/blob/master/section_1-introduction/git-basics.md)
 - [Go basic commands](https://github.com/steevehook/udemy-go101/blob/master/section_1-introduction/go-commands.md)
 - [Hello World](https://github.com/steevehook/udemy-go101/blob/master/section_1-introduction/hello-world)
+- [Binary size](https://github.com/steevehook/udemy-go101/blob/master/section_1-introduction/binary-size)
 - [Quiz](https://github.com/steevehook/udemy-go101/blob/master/section_1-introduction/quiz)
 
 [Back](https://github.com/steevehook/udemy-go101)

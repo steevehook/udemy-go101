@@ -74,7 +74,7 @@ func main() {
 
 ##### `Options`:
 
-**A.** Will print: Hello <br/>
+**A.** Will print: "Hello" <br/>
 **B.** Nothing <br/>
 **C.** Will compile successfully, but give a runtime error
 
