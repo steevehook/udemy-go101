@@ -2,7 +2,31 @@
 
 ## Hello World
 
-Here's the link to the **Hello World** [code](https://github.com/steevehook/udemy-go101/blob/master/section_1-introduction/hello-world/main.go)
+**main.go**
+```go
+package main
+
+import "fmt"
+
+const (
+	hello       = "你好"
+	exclamation = "!"
+)
+
+var world string
+
+func 世界() {
+	world = "世界"
+}
+
+func init() {
+	世界()
+}
+
+func main() {
+	fmt.Println(hello + world + exclamation)
+}
+```
 
 ### File components
 

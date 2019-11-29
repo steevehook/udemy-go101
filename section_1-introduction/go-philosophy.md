@@ -83,6 +83,8 @@ func main() {
 }
 ```
 
+Make sure to also check out [binary size](https://github.com/steevehook/udemy-go101/blob/master/section_1-introduction/binary-size)
+
 [Back](https://github.com/steevehook/udemy-go101/blob/master/section_1-introduction)
 
 ---

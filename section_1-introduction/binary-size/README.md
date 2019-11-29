@@ -15,6 +15,26 @@ as opposed to C which has roughly **20KB** for a hello world.
 
 To prove you that, let's compile both programs and check out the result:
 
+**main.c**
+```cgo
+#include<stdio.h>
+
+int main() {
+    printf("Hello World\n");
+}
+```
+
+**main.go**
+```go
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Println("Hello World")
+}
+```
+
 ```bash
 # compiles and generates a binary from the C code
 gcc -o c-binary main.c
