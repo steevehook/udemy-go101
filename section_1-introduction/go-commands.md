@@ -66,9 +66,10 @@ go build github.com/user/repo/pkg1
 # compiles the specified package and generates the binary with the specified name
 go build -o binary-name github.com/user/repo/pkg1
 
-# compile every main package in the current directory
+# compiles every main package in the current directory
 # and store all the binaries in "bins" directory 
-for pkg in $(go list -f '{{if eq .Name "main"}}{{.ImportPath}}{{end}}' ./...); go build -o ./bins/$(sed $'s/\\//\\\n/g' <<< $pkg | sed '$!d') $pkg
+for pkg in $(go list -f '{{if eq .Name "main"}}{{.ImportPath}}{{end}}' ./...);\
+go build -o ./bins/$(sed $'s/\\//\\\n/g' <<< $pkg | sed '$!d') $pkg
 
 # for more info about build
 go help build
@@ -175,7 +176,7 @@ go help fmt
 #### More info
 
 ```bash
-# for more info, feel free to run
+# for more info, feel free to run:
 go help
 ```
 
