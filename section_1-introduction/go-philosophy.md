@@ -64,7 +64,7 @@ Here's a small Hello World program which proves how easy it is to
 get up and running with Go programming language
 
 **Hello World in C**
-```cgo
+```c
 #include<stdio.h>
 
 int main() {

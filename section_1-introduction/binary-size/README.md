@@ -16,7 +16,7 @@ as opposed to C which has roughly **20KB** for a hello world.
 To prove you that, let's compile both programs and check out the result:
 
 **main.c**
-```cgo
+```c
 #include<stdio.h>
 
 int main() {
