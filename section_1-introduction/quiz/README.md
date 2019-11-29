@@ -60,6 +60,30 @@ const x = 10
 `Explanation`: Because the order of *constants*, *variables*, *types*
 or *functions* does not matter
 
+**6)** What happens if I run this program
+
+```go
+package hello
+
+import "fmt"
+
+func main() {
+	fmt.Println("Hello")
+}
+```
+
+##### `Options`:
+
+**A.** Will print: Hello <br/>
+**B.** Nothing <br/>
+**C.** Will compile successfully, but give a runtime error
+
+##### `Answer`: C
+
+`Explanation`: <br/>
+Because Go can only run the `main` package, or files
+that have `package main` declaration.
+
 [Back](https://github.com/steevehook/udemy-go101/blob/master/section_1-introduction)
 
 ---

@@ -2,7 +2,7 @@
 
 ## Instructions
 
-1. Create `HTTPError` custom type which has the following fields:
+- [ ] Create `HTTPError` custom type which has the following fields:
 
 ```
 StatusCode  - int
@@ -10,7 +10,7 @@ Code        - string
 Context     - []ErrorField
 ```
 
-2. Create `ErrorField` custom type which has the following fields:
+- [ ] Create `ErrorField` custom type which has the following fields:
 
 ```
 Code        - int
@@ -27,7 +27,7 @@ and `ErrorField` -> `Code` represents field specific code
 Note: `StatusCode` is for internal use only, thus should
 not make it to the final JSON
 
-3. Output couple of error to STDOUT in JSON format
+- [ ] Output couple of error to STDOUT in JSON format
 
 ## Expectations
 
