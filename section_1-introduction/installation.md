@@ -94,6 +94,25 @@ or try their [EAP](https://www.jetbrains.com/go/nextversion/) versions
 For more info on Go distributions make sure to visit
 the [Downloads](https://golang.org/dl/) page
 
+##### Windows ONLY
+
+If you're on Windows make sure to change your default
+terminal, so you can replicate the commands I'm running during
+the entire course by using **Bash** instead of **cmd**
+
+###### Goland
+
+`Ctrl + Alt + S` => `shell` => `Tools -> Terminal` => `Shell path` => `bash.exe`
+
+###### VSCode
+
+`F1` => `Shell` => `Select Default Shell` => `Bash`
+
+Make sure to restart Goland or VSCode and check it the changes applied:
+
+- **VSCode**: `Ctrl` + **\`** => `ls` => should work
+- **Goland**: `F12` => `ls` => should work
+
 ### Other Go tools
 
 You can also install other `Go` tools which will help you have a more productive development process
