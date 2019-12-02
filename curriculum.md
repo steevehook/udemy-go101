@@ -21,12 +21,11 @@ Estimated course time ~28 hours
 ## Section 2 - Language Basics (I)
 
 - Section 2 overview
-- Basic Go commands
 - Packages (executable & non executable)
 - Executable & non-executable packages
 - Basic types
 - **const** & **var** declarations
-- `_` blank identifier
+- blank identifier (`_`)
 - Reserved keywords & operators
 - Aggregate types overview
 - Arrays
@@ -37,14 +36,14 @@ Estimated course time ~28 hours
 - **make** function
 - Arrays/Slices addressing (range selections)
 - Control structures overview (if, else, switch, for)
-- if/else statement
-- switch statement
-- for statement
+- `if`/`else` statements
+- `switch` statement
+- `for` loops
 - Arrays/Slices looping
 - Maps
 - Maps - addressing & looping
 - Maps - comma, ok syntax
-- Nil map
+- Nil maps
 - Maps - delete function
 - Map implementation (Bucket example)
 - Zero values
