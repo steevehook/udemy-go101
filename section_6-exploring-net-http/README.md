@@ -6,7 +6,7 @@
 - [Assignment](https://github.com/steevehook/udemy-go101/blob/master/section_6-exploring-net-http/assignment)
 
 [Back](https://github.com/steevehook/udemy-go101) |
-[Previous](https://github.com/steevehook/udemy-go101/blob/master/section_6-exploring-net-http) |
+[Previous](https://github.com/steevehook/udemy-go101/blob/master/section_5-interfaces) |
 [Next](https://github.com/steevehook/udemy-go101/blob/master/section_7-notes-cli-app-improvements)
 
 ---
