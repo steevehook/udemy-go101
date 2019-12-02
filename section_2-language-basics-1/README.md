@@ -9,6 +9,10 @@ We will cover most of the **data types** in Go, some of the **built-in functions
 and **control structures**. We'll explore plenty of examples
 to make it as clear as possible.
 
+At the end of this section you'll have a small
+[quiz](https://github.com/steevehook/udemy-go101/blob/master/section_2-language-basics-1/quiz)
+which will consolidate the knowledge you gained during this section
+
 You can skip this and the next section if you already have a decent
 experience in this area. However if you're completely new to Go
 or just want to *refresh your knowledge*, feel free to stick around 🤓
