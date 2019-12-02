@@ -2,16 +2,16 @@
 
 ## Overview
 
-In this section we will cover the Go language basics and the bare bones
+In this section we will cover the **Go language basics** and the bare bones
 which make Go an amazing language to work with.
 
-We will cover most of the data types in Go, some of the built-in
-functions and control structures. We'll explore plenty of examples
+We will cover most of the **data types** in Go, some of the **built-in functions**
+and **control structures**. We'll explore plenty of examples
 to make it as clear as possible.
 
 You can skip this and the next section if you already have a decent
 experience in this area. However if you're completely new to Go
-or just want to refresh your knowledge, feel free to stick around 🤓
+or just want to *refresh your knowledge*, feel free to stick around 🤓
 
 #### Topics:
 
@@ -29,7 +29,7 @@ or just want to refresh your knowledge, feel free to stick around 🤓
 - [`append` function](https://github.com/steevehook/udemy-go101/blob/master/section_2-language-basics-1/append-func)
 - [`make` function](https://github.com/steevehook/udemy-go101/blob/master/section_2-language-basics-1/make-func)
 - [Arrays/Slices addressing](https://github.com/steevehook/udemy-go101/blob/master/section_2-language-basics-1/arrays-slices-addressing)
-- [Control structures overview](https://github.com/steevehook/udemy-go101/blob/master/section_2-language-basics-1/contol-structures-overview)
+- [Control structures overview](https://github.com/steevehook/udemy-go101/blob/master/section_2-language-basics-1/control-structures-overview)
 - [`if`/`else` statements](https://github.com/steevehook/udemy-go101/blob/master/section_2-language-basics-1/if-else-statements)
 - [`switch` statement](https://github.com/steevehook/udemy-go101/blob/master/section_2-language-basics-1/switch-statement)
 - [`for` loops](https://github.com/steevehook/udemy-go101/blob/master/section_2-language-basics-1/for-loops)
