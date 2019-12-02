@@ -83,11 +83,11 @@ That's why besides **Udemy's Q&A section** I also created a designated
 **Discord server** for all the participants of this course, whether you
 enrolled on Udemy or are simply playing with it on GitHub.
 
-[Udemy Go101 Discord](https://discord.gg/TxuJAs)
+<a href="https://discord.gg/gW9TUms" target="_blank">Udemy Go101 Discord</a>
 
 Besides that when you're asking a question, be **mindful of your question**.
 
-Before asking a question in Q&A section or on Discord make sure
+Before asking a question in **Q&A section** or on **Discord** make sure
 there is already someone who asked that question, chances are they did.
 Because problems students are facing are usually the same.
 
