@@ -6,20 +6,20 @@
 
 ##### `Answer`: Yes
 
-##### `Explanation`: Because Go source code is *UTF8 encoded*.
+**`Explanation`**: Because Go source code is *UTF8 encoded*.
 
 **2)** Is Go a garbage collected language?
 
 ##### `Answer`: Yes
 
-##### `Explanation`: Open up the language [docs](https://golang.org/doc/)
+**`Explanation`**: Open up the language [docs](https://golang.org/doc/)
 and convince yourself.
 
 **3)** Can I call the `init` function?
 
 ##### `Answer`: No
 
-##### `Explanation`: The `init` function cannot be called.
+**`Explanation`**: The `init` function cannot be called.
 It gets called automatically by the Go runtime.
 Calling it will result in a reference error.
 
@@ -27,7 +27,7 @@ Calling it will result in a reference error.
 
 ##### `Answer`: **package** declaration
 
-##### `Explanation`: Every file in Go must *belong* to a *package*
+**`Explanation`**: Every file in Go must *belong* to a *package*
 
 **5)** Will this piece of code compile?
 
@@ -39,7 +39,7 @@ import "fmt"
 
 ##### `Answer`: No
 
-##### `Explanation`: Because the *import* is not used.
+**`Explanation`**: Because the *import* is not used.
 
 **6)** Will this piece of code compile?
 
@@ -57,7 +57,7 @@ const x = 10
 
 ##### `Answer`: Yes
 
-##### `Explanation`: Because the order of *constants*, *variables*, *types*
+**`Explanation`**: Because the order of *constants*, *variables*, *types*
 or *functions* does not matter.
 
 **7)** What happens if I run this program
@@ -80,7 +80,7 @@ func main() {
 
 ##### `Answer`: C
 
-##### `Explanation`: Because Go can only run the `main` package, or files
+**`Explanation`**: Because Go can only run the `main` package, or files
 that have `package main` declaration.
 
 [Back](https://github.com/steevehook/udemy-go101/blob/master/section_1-introduction)
