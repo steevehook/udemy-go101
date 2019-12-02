@@ -1,5 +1,6 @@
 # Farewell & Resources
 
+[Previous](https://github.com/steevehook/udemy-go101/blob/master/section_22-go-best-practices) |
 [Back](https://github.com/steevehook/udemy-go101)
 
 ---

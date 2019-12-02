@@ -125,6 +125,7 @@ make sure to at least have a look:
 - [Binary size](https://github.com/steevehook/udemy-go101/blob/master/section_1-introduction/binary-size)
 - [Quiz](https://github.com/steevehook/udemy-go101/blob/master/section_1-introduction/quiz)
 
+[Next](https://github.com/steevehook/udemy-go101/blob/master/section_2-language-basics-1) |
 [Back](https://github.com/steevehook/udemy-go101)
 
 ---
