@@ -56,9 +56,9 @@ Estimated course time ~28 hours
 - Strucs
 - Structs - exported/unexported
 - Structs - field promotion
-- Empty struct
+- Empty structs
 - Functions
-- Function - multiple return (data, error)
+- Functions - multiple return (data, error)
 - Closures
 - Custom types
 - Methods (func receivers)
@@ -67,8 +67,8 @@ Estimated course time ~28 hours
 - Marshalling & Unmarshalling (Overview)
 - Struct tags
 - Structs - JSON
-- Arrays/Slices JSON
-- Maps JSON
+- Arrays/Slices - JSON
+- Maps - JSON
 - JSON Unmarshalling
 - Section 3 recap
 - [Quiz](https://github.com/steevehook/udemy-go101/blob/master/section_2-language-basics-2/quiz)
