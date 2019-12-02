@@ -45,6 +45,9 @@ go build -o go-binary main.go
 # prints the memory for each file inside the current directory
 # If you're on Windows, run this with Git Bash
 ls -sh c-binary go-binary
+
+# OUTPUT:
+# 24 c-binary  4152 go-binary
 ```
 
 [Back](https://github.com/steevehook/udemy-go101/blob/master/section_1-introduction)

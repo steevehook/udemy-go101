@@ -2,18 +2,18 @@
 
 ## Questions
 
-**1)** Can I write Go source code using Chinese or Russian characters?
+**1)** Can I write Go source code using *Chinese* or *Russian* characters?
 
 ##### `Answer`: Yes
 
-`Explanation`: Because Go source code is UTF8 encoded
+`Explanation`: Because Go source code is *UTF8 encoded*.
 
 **2)** Is Go a garbage collected language?
 
-`Explanation`: Open up the language [docs](https://golang.org/doc/)
-and convince yourself
-
 ##### `Answer`: Yes
+
+`Explanation`: Open up the language [docs](https://golang.org/doc/)
+and convince yourself.
 
 **3)** Can I call the `init` function?
 
@@ -21,7 +21,7 @@ and convince yourself
 
 `Explanation`: The `init` function cannot be called.
 It gets called automatically by the Go runtime.
-Calling it will result in a reference error
+Calling it will result in a reference error.
 
 **4)** What is the only thing a Go file requires?
 
@@ -39,7 +39,7 @@ import "fmt"
 
 ##### `Answer`: No
 
-`Explanation`: Because the *import* is not used
+`Explanation`: Because the *import* is not used.
 
 **6)** Will this piece of code compile?
 
@@ -58,9 +58,9 @@ const x = 10
 ##### `Answer`: Yes
 
 `Explanation`: Because the order of *constants*, *variables*, *types*
-or *functions* does not matter
+or *functions* does not matter.
 
-**6)** What happens if I run this program
+**7)** What happens if I run this program
 
 ```go
 package hello
@@ -74,14 +74,13 @@ func main() {
 
 ##### `Options`:
 
-**A.** Will print: "Hello" <br/>
+**A.** Will print: `Hello` <br/>
 **B.** Nothing <br/>
-**C.** Will compile successfully, but give a runtime error
+**C.** Will compile successfully, but give a `runtime error`
 
 ##### `Answer`: C
 
-`Explanation`: <br/>
-Because Go can only run the `main` package, or files
+`Explanation`: Because Go can only run the `main` package, or files
 that have `package main` declaration.
 
 [Back](https://github.com/steevehook/udemy-go101/blob/master/section_1-introduction)
