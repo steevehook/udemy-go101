@@ -5,9 +5,9 @@
 - [Quiz](https://github.com/steevehook/udemy-go101/blob/master/section_8-errors/quiz)
 - [Assignment](https://github.com/steevehook/udemy-go101/blob/master/section_8-errors/assignment)
 
-[Next](https://github.com/steevehook/udemy-go101/blob/master/section_9-refactor-notes-cli-app) |
+[Back](https://github.com/steevehook/udemy-go101) |
 [Previous](https://github.com/steevehook/udemy-go101/blob/master/section_7-notes-cli-app-improvements) |
-[Back](https://github.com/steevehook/udemy-go101)
+[Next](https://github.com/steevehook/udemy-go101/blob/master/section_9-refactor-notes-cli-app)
 
 ---
 

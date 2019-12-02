@@ -1,8 +1,8 @@
 # Section 12 - Expenses REST API
 
-[Next](https://github.com/steevehook/udemy-go101/blob/master/section_13-test-expenses-rest-api) |
+[Back](https://github.com/steevehook/udemy-go101) |
 [Previous](https://github.com/steevehook/udemy-go101/blob/master/section_11-testing-notes-cli-app) |
-[Back](https://github.com/steevehook/udemy-go101)
+[Next](https://github.com/steevehook/udemy-go101/blob/master/section_13-test-expenses-rest-api)
 
 ---
 

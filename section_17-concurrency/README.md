@@ -5,9 +5,9 @@
 - [Quiz](https://github.com/steevehook/udemy-go101/blob/master/section_17-concurrency/quiz)
 - [Assignment](https://github.com/steevehook/udemy-go101/blob/master/section_17-concurrency/assignment)
 
-[Next](https://github.com/steevehook/udemy-go101/blob/master/section_18-real-time-chat-app) |
+[Back](https://github.com/steevehook/udemy-go101) |
 [Previous](https://github.com/steevehook/udemy-go101/blob/master/section_16-package-management) |
-[Back](https://github.com/steevehook/udemy-go101)
+[Next](https://github.com/steevehook/udemy-go101/blob/master/section_18-real-time-chat-app)
 
 ---
 

@@ -2,9 +2,9 @@
 
 #### Topics:
 
-[Next](https://github.com/steevehook/udemy-go101/blob/master/section_8-errors) |
+[Back](https://github.com/steevehook/udemy-go101) |
 [Previous](https://github.com/steevehook/udemy-go101/blob/master/section_6-exploring-net-http) |
-[Back](https://github.com/steevehook/udemy-go101)
+[Next](https://github.com/steevehook/udemy-go101/blob/master/section_8-errors)
 
 ---
 

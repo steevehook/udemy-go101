@@ -1,8 +1,8 @@
 # Section 18 - Real Time Chat app
 
-[Next](https://github.com/steevehook/udemy-go101/blob/master/section_19-platform-specific-software) |
+[Back](https://github.com/steevehook/udemy-go101) |
 [Previous](https://github.com/steevehook/udemy-go101/blob/master/section_17-concurrency) |
-[Back](https://github.com/steevehook/udemy-go101)
+[Next](https://github.com/steevehook/udemy-go101/blob/master/section_19-platform-specific-software)
 
 ---
 

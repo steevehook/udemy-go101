@@ -1,8 +1,8 @@
 # Section 14 - Expenses REST API Auth
 
-[Next](https://github.com/steevehook/udemy-go101/blob/master/section_15-expenses-rest-api-session) |
+[Back](https://github.com/steevehook/udemy-go101) |
 [Previous](https://github.com/steevehook/udemy-go101/blob/master/section_13-test-expenses-rest-api) |
-[Back](https://github.com/steevehook/udemy-go101)
+[Next](https://github.com/steevehook/udemy-go101/blob/master/section_15-expenses-rest-api-session)
 
 ---
 

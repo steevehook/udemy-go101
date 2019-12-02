@@ -47,9 +47,9 @@ or just want to *refresh your knowledge*, feel free to stick around 🤓
 - [Zero values](https://github.com/steevehook/udemy-go101/blob/master/section_2-language-basics-1/zero-values)
 - [Quiz](https://github.com/steevehook/udemy-go101/blob/master/section_2-language-basics-1/quiz)
 
-[Next](https://github.com/steevehook/udemy-go101/blob/master/section_3-language-basics-2) |
+[Back](https://github.com/steevehook/udemy-go101) |
 [Previous](https://github.com/steevehook/udemy-go101/blob/master/section_1-introduction) |
-[Back](https://github.com/steevehook/udemy-go101)
+[Next](https://github.com/steevehook/udemy-go101/blob/master/section_3-language-basics-2)
 
 ---
 

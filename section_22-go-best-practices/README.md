@@ -4,9 +4,9 @@
 
 - [Quiz](https://github.com/steevehook/udemy-go101/blob/master/section_22-go-best-practices/quiz)
 
-[Next](https://github.com/steevehook/udemy-go101/blob/master/farewell-and-resources) |
+[Back](https://github.com/steevehook/udemy-go101) |
 [Previous](https://github.com/steevehook/udemy-go101/blob/master/section_21-deploying-go-apps) |
-[Back](https://github.com/steevehook/udemy-go101)
+[Next](https://github.com/steevehook/udemy-go101/blob/master/farewell-and-resources)
 
 ---
 

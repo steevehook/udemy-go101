@@ -5,9 +5,9 @@
 - [Quiz](https://github.com/steevehook/udemy-go101/blob/master/section_21-deploying-go-apps/quiz)
 - [Assignment](https://github.com/steevehook/udemy-go101/blob/master/section_21-deploying-go-apps/assignment)
 
-[Next](https://github.com/steevehook/udemy-go101/blob/master/section_22-go-best-practices) |
+[Back](https://github.com/steevehook/udemy-go101) |
 [Previous](https://github.com/steevehook/udemy-go101/blob/master/section_20-debugging) |
-[Back](https://github.com/steevehook/udemy-go101)
+[Next](https://github.com/steevehook/udemy-go101/blob/master/section_22-go-best-practices)
 
 ---
 

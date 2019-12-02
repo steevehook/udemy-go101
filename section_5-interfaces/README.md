@@ -5,9 +5,9 @@
 - [Quiz](https://github.com/steevehook/udemy-go101/blob/master/section_5-interfaces/quiz)
 - [Assignment](https://github.com/steevehook/udemy-go101/blob/master/section_5-interfaces/assignment)
 
-[Next](https://github.com/steevehook/udemy-go101/blob/master/section_6-exploring-net-http) |
+[Back](https://github.com/steevehook/udemy-go101) |
 [Previous](https://github.com/steevehook/udemy-go101/blob/master/section_4-notes-cli-app) |
-[Back](https://github.com/steevehook/udemy-go101)
+[Next](https://github.com/steevehook/udemy-go101/blob/master/section_6-exploring-net-http)
 
 ---
 

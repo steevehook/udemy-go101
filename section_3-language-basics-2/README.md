@@ -37,9 +37,9 @@ however if you're new to Go, you're more than welcome to join us 🤘
 - [Quiz](https://github.com/steevehook/udemy-go101/blob/master/section_3-language-basics-2/quiz)
 - [Assignment](https://github.com/steevehook/udemy-go101/blob/master/section_3-language-basics-2/assignment)
 
-[Next](https://github.com/steevehook/udemy-go101/blob/master/section_4-notes-cli-app) |
+[Back](https://github.com/steevehook/udemy-go101) |
 [Previous](https://github.com/steevehook/udemy-go101/blob/master/section_2-language-basics-1) |
-[Back](https://github.com/steevehook/udemy-go101)
+[Next](https://github.com/steevehook/udemy-go101/blob/master/section_4-notes-cli-app)
 
 ---
 
