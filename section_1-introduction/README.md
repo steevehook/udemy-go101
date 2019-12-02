@@ -2,6 +2,9 @@
 
 ## About the Author
 
+<img src="https://github.com/steevehook/udemy-go101/raw/master/author.jpg?sanitize=true" width="150px"/>
+<br/><br/>
+
 My name is **Stefan Cirlig** aka **Steve Hook**. I am from the Republic of Moldova
 and I'm super excited to share this course with all of you.
 
