@@ -83,7 +83,7 @@ That's why besides **Udemy's Q&A section** I also created a designated
 **Discord server** for all the participants of this course, whether you
 enrolled on Udemy or are simply playing with it on GitHub.
 
-<a href="https://discord.gg/gW9TUms" target="_blank">Udemy Go101 Discord</a>
+[Udemy Go101 Discord](https://discord.gg/gW9TUms)
 
 Besides that when you're asking a question, be **mindful of your question**.
 

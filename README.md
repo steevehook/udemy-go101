@@ -51,7 +51,7 @@ For more info on the course check out the [Curriculum](https://github.com/steeve
 
 ### Community 🙌
 
-- <a href="https://discord.gg/gW9TUms" target="_blank">Udemy Go101 Discord</a>
+- [Udemy Go101 Discord](https://discord.gg/gW9TUms)
 
 ### Social Media ☕
 
