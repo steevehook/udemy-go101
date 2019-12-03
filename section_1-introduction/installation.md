@@ -108,6 +108,24 @@ the entire course by using **Bash** instead of **cmd**
 
 `F1` => `Shell` => `Select Default Shell` => `Bash`
 
+I also created some small useful tasks for VSCode to make your
+developing experience as smooth as possible (Goland like)
+
+Make sure to copy `.vscode.sample` inside your project and
+rename it to `.vscode`
+
+```bash
+# install mockery dependency for working easier with tests
+go get github.com/vektra/mockery/.../
+```
+
+OR: Go to ==> `Terminal` ==> `Configure Tasks` and paste
+the JSON content from `.vscode.sample/tasks.json`
+
+Type: `F6` to run any of the created tasks
+
+---
+
 Make sure to restart Goland or VSCode and check it the changes applied:
 
 - **VSCode**: `Ctrl` + **\`** => `ls` => should work

@@ -1,5 +1,6 @@
 .DS_Store
 .idea/
+.vscode/
 **/vendor
 section_1-introduction/c-binary
 section_1-introduction/go-binary

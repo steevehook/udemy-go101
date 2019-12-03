@@ -1,0 +1,38 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Go Run",
+      "type": "shell",
+      "command": "go run .",
+      "problemMatcher": [
+        "$go"
+      ]
+    },
+    {
+      "label": "Go Build",
+      "type": "shell",
+      "command": "go build .",
+      "problemMatcher": [
+        "$go"
+      ]
+    },
+    {
+      "label": "Go Build and Run",
+      "type": "shell",
+      "command": "go build . && ./${workspaceFolderBasename}",
+      "problemMatcher": [
+        "$go"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      }
+    },
+    {
+      "label": "Go Mockery",
+      "type": "shell",
+      "command": "mockery -all"
+    }
+  ]
+}
