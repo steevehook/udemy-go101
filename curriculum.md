@@ -84,6 +84,7 @@ Estimated course time ~28 hours
 - Intro to `os` package (Read/Write/Delete file)
 - Create note (write to file)
 - Read note (read from file)
+- Update note (read from file, write to file)
 - Delete note (read from file & delete & write to file)
 - Intro to `os.Signal`
 - Graceful app shutdown
@@ -202,11 +203,12 @@ Estimated course time ~28 hours
 ## Section 11 - Test Notes CLI app
 
 - Section 11 overview
-- Test **create**
-- Test **read**
-- Test **delete**
+- Test **create** note
+- Test **read** note
+- Test **update** note
+- Test **delete** note
 - Test **shutdown**
-- Test **backup**
+- Test **backup** notes
 - Test MemCache
 - Integration test **create**
 - Integration test **read**
