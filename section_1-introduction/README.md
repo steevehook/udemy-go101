@@ -121,6 +121,7 @@ make sure to at least have a look:
 - [Go's Philosophy & Authors](https://github.com/steevehook/udemy-go101/blob/master/section_1-introduction/go-philosophy.md)
 - [Git Basics](https://github.com/steevehook/udemy-go101/blob/master/section_1-introduction/git-basics.md)
 - [Go basic commands](https://github.com/steevehook/udemy-go101/blob/master/section_1-introduction/go-commands.md)
+- [`$GOPATH` & Go workspace](https://github.com/steevehook/udemy-go101/blob/master/section_1-introduction/gopath)
 - [Hello World](https://github.com/steevehook/udemy-go101/blob/master/section_1-introduction/hello-world)
 - [Binary size](https://github.com/steevehook/udemy-go101/blob/master/section_1-introduction/binary-size)
 - [Quiz](https://github.com/steevehook/udemy-go101/blob/master/section_1-introduction/quiz)

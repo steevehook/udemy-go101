@@ -10,8 +10,9 @@ Estimated course time ~28 hours
 - Installation on Mac (Go, Git & Editor)
 - Installation on Windows (Go, Git & Editor)
 - Installation on Linux (Ubuntu & RaspberryPi) (Go, Git & Editor)
-- Git basics & Github (clone udemy-go101, repo structure)
-- `$GOPATH` & directory structure
+- Git basics & Github (clone `github.com/steevehook/udemy-go101`, repo structure)
+- `$GOPATH` & Go workspace
+- Go environment variables
 - Hello World
 - Basic Go commands (`run` `build` `get` `install` `test`, `fmt`)
 - Binary size. Go vs C
@@ -333,6 +334,7 @@ Estimated course time ~28 hours
 - Section 16 overview
 - Explaining packages in depth
 - Package management & go get
+- `vendor` directory
 - Go mod (vgo)
 - Intro to Dep
 - Migration to Go mod
