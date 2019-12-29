@@ -100,9 +100,14 @@ If you're on Windows make sure to change your default
 terminal, so you can replicate the commands I'm running during
 the entire course by using **Bash** instead of **cmd**
 
+###### Install Git Bash (Windows only)
+
+- install cygwin64
+- set path also point to cygwin
+
 ###### Goland
 
-`Ctrl + Alt + S` => `shell` => `Tools -> Terminal` => `Shell path` => `bash.exe`
+`Ctrl + Alt + S` => `shell` => `Tools -> Terminal` => `Shell path` => `"C:\Program Files\Git\bin\sh.exe" --login -i`
 
 ###### VSCode
 
